@@ -1,0 +1,3200 @@
+{
+  "products": [
+    {
+      "id": 10022106595618,
+      "title": "MANTECO ORIGINALLY ❤️‍🔥",
+      "handle": "manteco-originally-❤️‍🔥",
+      "body_html": "",
+      "published_at": "2026-02-13T21:23:55+01:00",
+      "created_at": "2026-02-13T21:21:45+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "Coat",
+      "tags": [],
+      "variants": [
+        {
+          "id": 51266169012514,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "850.00",
+          "grams": 0,
+          "compare_at_price": "600.00",
+          "position": 1,
+          "product_id": 10022106595618,
+          "created_at": "2026-02-13T21:21:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63224887181602,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 1,
+          "updated_at": "2026-02-09T01:05:30+01:00",
+          "product_id": 10022106595618,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00749.jpg?v=1770595530",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224887116066,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 2,
+          "updated_at": "2026-02-09T01:05:30+01:00",
+          "product_id": 10022106595618,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00744.jpg?v=1770595530",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224886264098,
+          "created_at": "2026-02-09T01:05:22+01:00",
+          "position": 3,
+          "updated_at": "2026-02-09T01:05:28+01:00",
+          "product_id": 10022106595618,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00712.jpg?v=1770595528",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224886231330,
+          "created_at": "2026-02-09T01:05:22+01:00",
+          "position": 4,
+          "updated_at": "2026-02-09T01:05:25+01:00",
+          "product_id": 10022106595618,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00722.jpg?v=1770595525",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10022082576674,
+      "title": "Trensh original",
+      "handle": "trensh-original",
+      "body_html": "",
+      "published_at": "2026-02-13T20:24:57+01:00",
+      "created_at": "2026-02-13T20:23:03+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 51266020049186,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "700.00",
+          "grams": 0,
+          "compare_at_price": "600.00",
+          "position": 1,
+          "product_id": 10022082576674,
+          "created_at": "2026-02-13T20:23:05+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63224887345442,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 1,
+          "updated_at": "2026-02-09T01:05:31+01:00",
+          "product_id": 10022082576674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00933.jpg?v=1770595531",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224876892450,
+          "created_at": "2026-02-09T01:03:23+01:00",
+          "position": 2,
+          "updated_at": "2026-02-09T01:03:30+01:00",
+          "product_id": 10022082576674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00935.jpg?v=1770595410",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224876007714,
+          "created_at": "2026-02-09T01:03:11+01:00",
+          "position": 3,
+          "updated_at": "2026-02-09T01:03:14+01:00",
+          "product_id": 10022082576674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00941.jpg?v=1770595394",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224875385122,
+          "created_at": "2026-02-09T01:03:04+01:00",
+          "position": 4,
+          "updated_at": "2026-02-09T01:03:07+01:00",
+          "product_id": 10022082576674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00942.jpg?v=1770595387",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10020445946146,
+      "title": "ENSEMBLE SANTOS",
+      "handle": "ensemble-santos",
+      "body_html": "",
+      "published_at": "2026-02-11T20:13:02+01:00",
+      "created_at": "2026-02-11T20:09:01+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 51259111538978,
+          "title": "Red / S",
+          "option1": "Red",
+          "option2": "S",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 63245096747298,
+            "product_id": 10020445946146,
+            "position": 1,
+            "created_at": "2026-02-11T20:09:46+01:00",
+            "updated_at": "2026-02-11T20:09:49+01:00",
+            "alt": null,
+            "width": 4000,
+            "height": 6000,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/93A85E77-9570-47CF-942E-0F77FD3C48CA.jpg?v=1770836989",
+            "variant_ids": [
+              51259111538978
+            ]
+          },
+          "available": true,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 1,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:12:02+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259111571746,
+          "title": "Jaune / S",
+          "option1": "Jaune",
+          "option2": "S",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 63245110149410,
+            "product_id": 10020445946146,
+            "position": 2,
+            "created_at": "2026-02-11T20:12:45+01:00",
+            "updated_at": "2026-02-11T20:12:48+01:00",
+            "alt": null,
+            "width": 4000,
+            "height": 6000,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/7481849E-DD39-429A-A6BD-4DEFE934C719.jpg?v=1770837168",
+            "variant_ids": [
+              51259111571746
+            ]
+          },
+          "available": true,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 2,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:12:02+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259113636130,
+          "title": "Red / M",
+          "option1": "Red",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 3,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:14:41+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259113668898,
+          "title": "Red / L",
+          "option1": "Red",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 4,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:14:41+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259113701666,
+          "title": "Red / XL",
+          "option1": "Red",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 5,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:14:41+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259113734434,
+          "title": "Jaune / M",
+          "option1": "Jaune",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 6,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:14:41+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259113767202,
+          "title": "Jaune / L",
+          "option1": "Jaune",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 7,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:14:41+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259113799970,
+          "title": "Jaune / XL",
+          "option1": "Jaune",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "800.00",
+          "position": 8,
+          "product_id": 10020445946146,
+          "created_at": "2026-02-11T20:14:41+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63245096747298,
+          "created_at": "2026-02-11T20:09:46+01:00",
+          "position": 1,
+          "updated_at": "2026-02-11T20:09:49+01:00",
+          "product_id": 10020445946146,
+          "variant_ids": [
+            51259111538978
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/93A85E77-9570-47CF-942E-0F77FD3C48CA.jpg?v=1770836989",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63245110149410,
+          "created_at": "2026-02-11T20:12:45+01:00",
+          "position": 2,
+          "updated_at": "2026-02-11T20:12:48+01:00",
+          "product_id": 10020445946146,
+          "variant_ids": [
+            51259111571746
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/7481849E-DD39-429A-A6BD-4DEFE934C719.jpg?v=1770837168",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Couleur",
+          "position": 1,
+          "values": [
+            "Red",
+            "Jaune"
+          ]
+        },
+        {
+          "name": "Taille",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10020443914530,
+      "title": "BLAZER SURPIQÛRES CONTRASTE ZW COLLECTION LIMITED EDITION",
+      "handle": "blazer-surpiqures-contraste-zw-collection-limited-edition",
+      "body_html": "",
+      "published_at": "2026-02-11T20:04:59+01:00",
+      "created_at": "2026-02-11T19:59:52+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "Coat",
+      "tags": [],
+      "variants": [
+        {
+          "id": 51259104395554,
+          "title": "Noir",
+          "option1": "Noir",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 63224887640354,
+            "product_id": 10020443914530,
+            "position": 1,
+            "created_at": "2026-02-09T01:05:28+01:00",
+            "updated_at": "2026-02-09T01:05:32+01:00",
+            "alt": null,
+            "width": 4000,
+            "height": 6000,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00544.jpg?v=1770595532",
+            "variant_ids": [
+              51259104395554
+            ]
+          },
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 1,
+          "product_id": 10020443914530,
+          "created_at": "2026-02-11T20:04:05+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259104428322,
+          "title": "somo yamo",
+          "option1": "somo yamo",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 63224887083298,
+            "product_id": 10020443914530,
+            "position": 2,
+            "created_at": "2026-02-09T01:05:27+01:00",
+            "updated_at": "2026-02-09T01:05:30+01:00",
+            "alt": null,
+            "width": 4000,
+            "height": 6000,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00553.jpg?v=1770595530",
+            "variant_ids": [
+              51259104428322
+            ]
+          },
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 2,
+          "product_id": 10020443914530,
+          "created_at": "2026-02-11T20:04:05+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 51259104461090,
+          "title": "Navy",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": false,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 3,
+          "product_id": 10020443914530,
+          "created_at": "2026-02-11T20:04:05+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63224887640354,
+          "created_at": "2026-02-09T01:05:28+01:00",
+          "position": 1,
+          "updated_at": "2026-02-09T01:05:32+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [
+            51259104395554
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00544.jpg?v=1770595532",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224887083298,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 2,
+          "updated_at": "2026-02-09T01:05:30+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [
+            51259104428322
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00553.jpg?v=1770595530",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224887279906,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 3,
+          "updated_at": "2026-02-09T01:05:34+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00558.jpg?v=1770595534",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224887312674,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 4,
+          "updated_at": "2026-02-09T01:05:34+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00548.jpg?v=1770595534",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224883151138,
+          "created_at": "2026-02-09T01:04:48+01:00",
+          "position": 5,
+          "updated_at": "2026-02-09T01:04:51+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00551.jpg?v=1770595491",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224879644962,
+          "created_at": "2026-02-09T01:04:03+01:00",
+          "position": 6,
+          "updated_at": "2026-02-09T01:04:06+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00554.jpg?v=1770595446",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224883020066,
+          "created_at": "2026-02-09T01:04:46+01:00",
+          "position": 7,
+          "updated_at": "2026-02-09T01:04:50+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00561.jpg?v=1770595490",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224882659618,
+          "created_at": "2026-02-09T01:04:46+01:00",
+          "position": 8,
+          "updated_at": "2026-02-09T01:04:49+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00560.jpg?v=1770595489",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224877187362,
+          "created_at": "2026-02-09T01:03:26+01:00",
+          "position": 9,
+          "updated_at": "2026-02-09T01:03:29+01:00",
+          "product_id": 10020443914530,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00615.jpg?v=1770595409",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Couleur",
+          "position": 1,
+          "values": [
+            "Noir",
+            "somo yamo",
+            "Navy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10018444280098,
+      "title": "Regular Fit Wool Like Midi Length Belted Coat For Women santos",
+      "handle": "regular-fit-wool-like-midi-length-belted-coat-for-women-santos",
+      "body_html": "",
+      "published_at": "2026-02-09T01:29:46+01:00",
+      "created_at": "2026-02-09T01:29:45+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "Coat",
+      "tags": [],
+      "variants": [
+        {
+          "id": 51250286395682,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "0.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10018444280098,
+          "created_at": "2026-02-09T01:29:45+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63224878760226,
+          "created_at": "2026-02-09T01:03:50+01:00",
+          "position": 1,
+          "updated_at": "2026-02-09T01:03:53+01:00",
+          "product_id": 10018444280098,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00692.jpg?v=1770595433",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224885936418,
+          "created_at": "2026-02-09T01:05:19+01:00",
+          "position": 2,
+          "updated_at": "2026-02-09T01:05:22+01:00",
+          "product_id": 10018444280098,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00698.jpg?v=1770595522",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224885838114,
+          "created_at": "2026-02-09T01:05:18+01:00",
+          "position": 3,
+          "updated_at": "2026-02-09T01:05:21+01:00",
+          "product_id": 10018444280098,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00699.jpg?v=1770595521",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224876597538,
+          "created_at": "2026-02-09T01:03:19+01:00",
+          "position": 4,
+          "updated_at": "2026-02-09T01:03:25+01:00",
+          "product_id": 10018444280098,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00700.jpg?v=1770595405",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10018427765026,
+      "title": "TRUE AVENUE BLACK VALE JACKET SANTOS",
+      "handle": "true-avenue-black-vale-jacket-santos",
+      "body_html": "",
+      "published_at": "2026-02-09T01:22:32+01:00",
+      "created_at": "2026-02-09T01:22:30+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 51250266964258,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "800.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10018427765026,
+          "created_at": "2026-02-09T01:22:31+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63224879186210,
+          "created_at": "2026-02-09T01:03:56+01:00",
+          "position": 1,
+          "updated_at": "2026-02-09T01:03:59+01:00",
+          "product_id": 10018427765026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00521.jpg?v=1770595439",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224887214370,
+          "created_at": "2026-02-09T01:05:27+01:00",
+          "position": 2,
+          "updated_at": "2026-02-09T01:05:30+01:00",
+          "product_id": 10018427765026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00528.jpg?v=1770595530",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224875843874,
+          "created_at": "2026-02-09T01:03:10+01:00",
+          "position": 3,
+          "updated_at": "2026-02-09T01:03:13+01:00",
+          "product_id": 10018427765026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00531.jpg?v=1770595393",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224884756770,
+          "created_at": "2026-02-09T01:05:02+01:00",
+          "position": 4,
+          "updated_at": "2026-02-09T01:05:06+01:00",
+          "product_id": 10018427765026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00535.jpg?v=1770595506",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10018397782306,
+      "title": "Women's Trench Coat Fleece-Lined Mid-length Jacket santos magic",
+      "handle": "womens-trench-coat-fleece-lined-mid-length-jacket-santos-magic",
+      "body_html": "",
+      "published_at": "2026-02-09T01:09:48+01:00",
+      "created_at": "2026-02-09T01:09:47+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping",
+      "product_type": "Coat",
+      "tags": [
+        "santosmagic"
+      ],
+      "variants": [
+        {
+          "id": 51250231836962,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "400.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10018397782306,
+          "created_at": "2026-02-09T01:09:47+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63224831181090,
+          "created_at": "2026-02-09T00:51:54+01:00",
+          "position": 1,
+          "updated_at": "2026-02-09T00:51:57+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00819.jpg?v=1770594717",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224873484578,
+          "created_at": "2026-02-09T01:02:47+01:00",
+          "position": 2,
+          "updated_at": "2026-02-09T01:02:50+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00830.jpg?v=1770595370",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224879317282,
+          "created_at": "2026-02-09T01:03:58+01:00",
+          "position": 3,
+          "updated_at": "2026-02-09T01:04:02+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00832.jpg?v=1770595442",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224876532002,
+          "created_at": "2026-02-09T01:03:18+01:00",
+          "position": 4,
+          "updated_at": "2026-02-09T01:03:22+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00828.jpg?v=1770595402",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224876138786,
+          "created_at": "2026-02-09T01:03:12+01:00",
+          "position": 5,
+          "updated_at": "2026-02-09T01:03:15+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00819_1ff7d238-04e3-4b8e-8a61-334c7381f423.jpg?v=1770595395",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224878792994,
+          "created_at": "2026-02-09T01:03:50+01:00",
+          "position": 6,
+          "updated_at": "2026-02-09T01:03:53+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00818.jpg?v=1770595433",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224875974946,
+          "created_at": "2026-02-09T01:03:11+01:00",
+          "position": 7,
+          "updated_at": "2026-02-09T01:03:14+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00815.jpg?v=1770595394",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224873910562,
+          "created_at": "2026-02-09T01:02:56+01:00",
+          "position": 8,
+          "updated_at": "2026-02-09T01:02:59+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00855.jpg?v=1770595379",
+          "width": 4000,
+          "height": 6000
+        },
+        {
+          "id": 63224878367010,
+          "created_at": "2026-02-09T01:03:44+01:00",
+          "position": 9,
+          "updated_at": "2026-02-09T01:03:47+01:00",
+          "product_id": 10018397782306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/DSC00848.jpg?v=1770595427",
+          "width": 4000,
+          "height": 6000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9998249427234,
+      "title": "Trench Kaki Chic Original",
+      "handle": "trench-kaki-chic-origina",
+      "body_html": "<ul class=\"marker:text-quiet list-disc\">\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Trench long en tissu technique matelassé vert kaki profond, résistant à l'eau et au vent.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Col montant zippé et double boutonnage pour une protection optimale.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Ceinture à nouer à la taille pour une silhouette affinée et élégante.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Manches longues avec pattes boutonnées, épaules structurées.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Poches à rabat devant et poches intérieures pratiques.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Longueur mi-mollet, disponible en S, M, L, XL.</p>\n</li>\n</ul>",
+      "published_at": "2026-01-18T02:49:11+01:00",
+      "created_at": "2026-01-18T02:49:10+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50811124416802,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "599.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 1,
+          "product_id": 9998249427234,
+          "created_at": "2026-01-18T02:49:10+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63020862013730,
+          "created_at": "2026-01-18T02:48:49+01:00",
+          "position": 1,
+          "updated_at": "2026-01-18T02:48:51+01:00",
+          "product_id": 9998249427234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.16.44_1.jpg?v=1768700931",
+          "width": 968,
+          "height": 1280
+        },
+        {
+          "id": 63020862046498,
+          "created_at": "2026-01-18T02:48:49+01:00",
+          "position": 2,
+          "updated_at": "2026-01-18T02:48:51+01:00",
+          "product_id": 9998249427234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.16.44.jpg?v=1768700931",
+          "width": 986,
+          "height": 1280
+        },
+        {
+          "id": 63020862079266,
+          "created_at": "2026-01-18T02:48:49+01:00",
+          "position": 3,
+          "updated_at": "2026-01-18T02:48:51+01:00",
+          "product_id": 9998249427234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.16.45_1.jpg?v=1768700931",
+          "width": 970,
+          "height": 1280
+        },
+        {
+          "id": 63020862112034,
+          "created_at": "2026-01-18T02:48:49+01:00",
+          "position": 4,
+          "updated_at": "2026-01-18T02:48:51+01:00",
+          "product_id": 9998249427234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.16.45.jpg?v=1768700931",
+          "width": 978,
+          "height": 1280
+        },
+        {
+          "id": 63020862144802,
+          "created_at": "2026-01-18T02:48:49+01:00",
+          "position": 5,
+          "updated_at": "2026-01-18T02:48:51+01:00",
+          "product_id": 9998249427234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.16.46.jpg?v=1768700931",
+          "width": 978,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9998248968482,
+      "title": "Combinaison Velvet Gold Luxe",
+      "handle": "combinaison-velvet-gold-luxe",
+      "body_html": "<ul class=\"marker:text-quiet list-disc\">\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Combinaison pantalon en velours froissé effet métallisé doré, au tombé<span> </span><strong>fluide</strong><span> </span>et élégant.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Haut façon blazer croisé avec larges revers et décolleté en V.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Ceinture à nouer à la taille pour marquer la silhouette.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Pantalon large et long, resserré légèrement en bas pour un effet bouffant moderne.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Deux poches côtés pratiques.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Idéale pour soirées, événements, anniversaires et occasions spéciales.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">À porter avec sandales ou talons dorés/nude et une pochette minimaliste.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Pièce forte: se suffit à elle‑même, il suffit d’ajouter des bijoux fins pour un rendu<span> </span><strong>luxueux</strong>.</p>\n</li>\n</ul>",
+      "published_at": "2026-01-18T02:47:02+01:00",
+      "created_at": "2026-01-18T02:47:01+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50811121860898,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "0.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9998248968482,
+          "created_at": "2026-01-18T02:47:01+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63020853166370,
+          "created_at": "2026-01-18T02:45:58+01:00",
+          "position": 1,
+          "updated_at": "2026-01-18T02:45:59+01:00",
+          "product_id": 9998248968482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.19.40.jpg?v=1768700759",
+          "width": 854,
+          "height": 1280
+        },
+        {
+          "id": 63020853100834,
+          "created_at": "2026-01-18T02:45:58+01:00",
+          "position": 2,
+          "updated_at": "2026-01-18T02:45:59+01:00",
+          "product_id": 9998248968482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.19.39.jpg?v=1768700759",
+          "width": 897,
+          "height": 1280
+        },
+        {
+          "id": 63020853133602,
+          "created_at": "2026-01-18T02:45:58+01:00",
+          "position": 3,
+          "updated_at": "2026-01-18T02:45:59+01:00",
+          "product_id": 9998248968482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.19.39_1.jpg?v=1768700759",
+          "width": 878,
+          "height": 1280
+        },
+        {
+          "id": 63020853199138,
+          "created_at": "2026-01-18T02:45:58+01:00",
+          "position": 4,
+          "updated_at": "2026-01-18T02:45:59+01:00",
+          "product_id": 9998248968482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.19.38_1.jpg?v=1768700759",
+          "width": 937,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9998239760674,
+      "title": "Manteco, manteau long ceinturé ultra chic",
+      "handle": "manteco-manteau-long-ceinture-ultra-chic",
+      "body_html": "<ul class=\"marker:text-quiet list-disc\">\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Manteau long coupe droite avec ceinture à nouer à la taille pour une silhouette<span> </span><strong>élancée</strong>.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Col à larges revers et épaules légèrement tombantes pour un effet oversize moderne.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Tissu effet laine, doux et chaud, parfait pour les journées fraîches (style « wool coat »).</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Manches longues avec patte boutonnée au poignet pour un fini élégant.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Deux poches côtés pratiques et discrètes.</p>\n</li>\n<li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\">\n<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">Longueur sous le genou, idéale à porter avec bottes, escarpins ou baskets.</p>\n</li>\n</ul>",
+      "published_at": "2026-01-18T02:09:37+01:00",
+      "created_at": "2026-01-18T02:09:36+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50811102626082,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "599.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 1,
+          "product_id": 9998239760674,
+          "created_at": "2026-01-18T02:09:36+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63020673696034,
+          "created_at": "2026-01-18T02:06:17+01:00",
+          "position": 1,
+          "updated_at": "2026-01-18T02:06:18+01:00",
+          "product_id": 9998239760674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.15.21.jpg?v=1768698378",
+          "width": 915,
+          "height": 1280
+        },
+        {
+          "id": 63020673827106,
+          "created_at": "2026-01-18T02:06:17+01:00",
+          "position": 2,
+          "updated_at": "2026-01-18T02:06:18+01:00",
+          "product_id": 9998239760674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.15.25.jpg?v=1768698378",
+          "width": 800,
+          "height": 1118
+        },
+        {
+          "id": 63020673859874,
+          "created_at": "2026-01-18T02:06:17+01:00",
+          "position": 3,
+          "updated_at": "2026-01-18T02:06:18+01:00",
+          "product_id": 9998239760674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsAppImage2026-01-17at02.15.28.jpg?v=1768698378",
+          "width": 1320,
+          "height": 2868
+        },
+        {
+          "id": 63020677988642,
+          "created_at": "2026-01-18T02:06:43+01:00",
+          "position": 4,
+          "updated_at": "2026-01-18T02:06:44+01:00",
+          "product_id": 9998239760674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsApp_Image_2026-01-17_at_02.15.26.jpg?v=1768698404",
+          "width": 1000,
+          "height": 1100
+        },
+        {
+          "id": 63020678021410,
+          "created_at": "2026-01-18T02:06:43+01:00",
+          "position": 5,
+          "updated_at": "2026-01-18T02:06:44+01:00",
+          "product_id": 9998239760674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsApp_Image_2026-01-17_at_02.15.27.jpg?v=1768698404",
+          "width": 563,
+          "height": 845
+        },
+        {
+          "id": 63020678054178,
+          "created_at": "2026-01-18T02:06:43+01:00",
+          "position": 6,
+          "updated_at": "2026-01-18T02:06:44+01:00",
+          "product_id": 9998239760674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/WhatsApp_Image_2026-01-17_at_02.15.30.jpg?v=1768698404",
+          "width": 2048,
+          "height": 2864
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9997801423138,
+      "title": "Doudoune Original France",
+      "handle": "doudoune-original-france",
+      "body_html": "",
+      "published_at": "2026-01-16T19:19:45+01:00",
+      "created_at": "2026-01-16T19:19:44+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50808107598114,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "499.00",
+          "grams": 0,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 9997801423138,
+          "created_at": "2026-01-16T19:19:44+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63012559618338,
+          "created_at": "2026-01-16T19:19:05+01:00",
+          "position": 1,
+          "updated_at": "2026-01-16T19:19:06+01:00",
+          "product_id": 9997801423138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_3666.webp?v=1768587546",
+          "width": 2897,
+          "height": 4346
+        },
+        {
+          "id": 63012559651106,
+          "created_at": "2026-01-16T19:19:05+01:00",
+          "position": 2,
+          "updated_at": "2026-01-16T19:19:06+01:00",
+          "product_id": 9997801423138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_3667.jpg?v=1768587546",
+          "width": 1200,
+          "height": 1800
+        },
+        {
+          "id": 63012559683874,
+          "created_at": "2026-01-16T19:19:05+01:00",
+          "position": 3,
+          "updated_at": "2026-01-16T19:19:06+01:00",
+          "product_id": 9997801423138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_3668.jpg?v=1768587546",
+          "width": 1200,
+          "height": 1800
+        },
+        {
+          "id": 63012559716642,
+          "created_at": "2026-01-16T19:19:05+01:00",
+          "position": 4,
+          "updated_at": "2026-01-16T19:19:06+01:00",
+          "product_id": 9997801423138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_3669.jpg?v=1768587546",
+          "width": 1200,
+          "height": 1800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9754680787234,
+      "title": "Grace Buckle Detail Black Midi Shirt Dress",
+      "handle": "grace-buckle-detail-black-midi-shirt-dress",
+      "body_html": "<p>Good to know</p>\n<p>Model is 5ft 6 and wears size UK 8<br>Designed for a relaxed fit<br>Fits true to size, take your normal size</p>",
+      "published_at": "2025-06-08T21:48:35+01:00",
+      "created_at": "2025-06-08T21:48:34+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50011134984482,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "349.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9754680787234,
+          "created_at": "2025-06-08T21:48:35+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 60670853775650,
+          "created_at": "2025-06-08T21:48:09+01:00",
+          "position": 1,
+          "updated_at": "2025-06-12T01:53:49+01:00",
+          "product_id": 9754680787234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0776_800x800_75ae9133-8fd6-4d9f-9c90-b901f3ec0878.webp?v=1749689629",
+          "width": 533,
+          "height": 800
+        },
+        {
+          "id": 60670852890914,
+          "created_at": "2025-06-08T21:48:07+01:00",
+          "position": 2,
+          "updated_at": "2025-06-12T01:53:49+01:00",
+          "product_id": 9754680787234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0775_800x800_6af0c397-03a6-49ee-813e-317e392b03ee.webp?v=1749689629",
+          "width": 533,
+          "height": 800
+        },
+        {
+          "id": 60670855807266,
+          "created_at": "2025-06-08T21:48:11+01:00",
+          "position": 3,
+          "updated_at": "2025-06-10T19:28:27+01:00",
+          "product_id": 9754680787234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0777_800x800_3db12012-d3dd-4c30-a84b-4e322bc2312e.webp?v=1749580107",
+          "width": 533,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9754600603938,
+      "title": "ENSEMBLE LIN SAHARA",
+      "handle": "ensemble-lin-sahara",
+      "body_html": "<p>Long-sleeved linen safari shirt, one size fits most, front button closure, front pockets with flaps and buttons, sleeves with buttons for tucking in, includes belt.</p>\n<p>Wide-leg linen safari pants, front button and zipper closure, side pockets.</p>\n<p><br></p>",
+      "published_at": "2025-06-08T19:38:16+01:00",
+      "created_at": "2025-06-08T19:38:15+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50010894631202,
+          "title": "Green / S",
+          "option1": "Green",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833123106,
+            "product_id": 9754600603938,
+            "position": 6,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 608,
+            "height": 811,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0774.jpg?v=1749644628",
+            "variant_ids": [
+              50010894631202,
+              50010896302370,
+              50010896335138,
+              50010896367906,
+              50010896400674
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 1,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:41:00+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010896302370,
+          "title": "Green / M",
+          "option1": "Green",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833123106,
+            "product_id": 9754600603938,
+            "position": 6,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 608,
+            "height": 811,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0774.jpg?v=1749644628",
+            "variant_ids": [
+              50010894631202,
+              50010896302370,
+              50010896335138,
+              50010896367906,
+              50010896400674
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 2,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:41:53+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010896335138,
+          "title": "Green / L",
+          "option1": "Green",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833123106,
+            "product_id": 9754600603938,
+            "position": 6,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 608,
+            "height": 811,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0774.jpg?v=1749644628",
+            "variant_ids": [
+              50010894631202,
+              50010896302370,
+              50010896335138,
+              50010896367906,
+              50010896400674
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 3,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:41:53+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010896367906,
+          "title": "Green / XL",
+          "option1": "Green",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833123106,
+            "product_id": 9754600603938,
+            "position": 6,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 608,
+            "height": 811,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0774.jpg?v=1749644628",
+            "variant_ids": [
+              50010894631202,
+              50010896302370,
+              50010896335138,
+              50010896367906,
+              50010896400674
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 4,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:41:53+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010896400674,
+          "title": "Green / XXL",
+          "option1": "Green",
+          "option2": "XXL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833123106,
+            "product_id": 9754600603938,
+            "position": 6,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 608,
+            "height": 811,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0774.jpg?v=1749644628",
+            "variant_ids": [
+              50010894631202,
+              50010896302370,
+              50010896335138,
+              50010896367906,
+              50010896400674
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 5,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:41:53+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898039074,
+          "title": "Navy / S",
+          "option1": "Navy",
+          "option2": "S",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833188642,
+            "product_id": 9754600603938,
+            "position": 3,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0770.jpg?v=1749644628",
+            "variant_ids": [
+              50010898039074,
+              50010898071842,
+              50010898104610,
+              50010898137378,
+              50010898170146
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 6,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898071842,
+          "title": "Navy / M",
+          "option1": "Navy",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833188642,
+            "product_id": 9754600603938,
+            "position": 3,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0770.jpg?v=1749644628",
+            "variant_ids": [
+              50010898039074,
+              50010898071842,
+              50010898104610,
+              50010898137378,
+              50010898170146
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 7,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898104610,
+          "title": "Navy / L",
+          "option1": "Navy",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833188642,
+            "product_id": 9754600603938,
+            "position": 3,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0770.jpg?v=1749644628",
+            "variant_ids": [
+              50010898039074,
+              50010898071842,
+              50010898104610,
+              50010898137378,
+              50010898170146
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 8,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898137378,
+          "title": "Navy / XL",
+          "option1": "Navy",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833188642,
+            "product_id": 9754600603938,
+            "position": 3,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0770.jpg?v=1749644628",
+            "variant_ids": [
+              50010898039074,
+              50010898071842,
+              50010898104610,
+              50010898137378,
+              50010898170146
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 9,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898170146,
+          "title": "Navy / XXL",
+          "option1": "Navy",
+          "option2": "XXL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833188642,
+            "product_id": 9754600603938,
+            "position": 3,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0770.jpg?v=1749644628",
+            "variant_ids": [
+              50010898039074,
+              50010898071842,
+              50010898104610,
+              50010898137378,
+              50010898170146
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 10,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898202914,
+          "title": "somo yamo / S",
+          "option1": "somo yamo",
+          "option2": "S",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833155874,
+            "product_id": 9754600603938,
+            "position": 8,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0771.jpg?v=1749644628",
+            "variant_ids": [
+              50010898202914,
+              50010898235682,
+              50010898268450,
+              50010898301218,
+              50010898333986
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 11,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898235682,
+          "title": "somo yamo / M",
+          "option1": "somo yamo",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833155874,
+            "product_id": 9754600603938,
+            "position": 8,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0771.jpg?v=1749644628",
+            "variant_ids": [
+              50010898202914,
+              50010898235682,
+              50010898268450,
+              50010898301218,
+              50010898333986
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 12,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898268450,
+          "title": "somo yamo / L",
+          "option1": "somo yamo",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833155874,
+            "product_id": 9754600603938,
+            "position": 8,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0771.jpg?v=1749644628",
+            "variant_ids": [
+              50010898202914,
+              50010898235682,
+              50010898268450,
+              50010898301218,
+              50010898333986
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 13,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898301218,
+          "title": "somo yamo / XL",
+          "option1": "somo yamo",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833155874,
+            "product_id": 9754600603938,
+            "position": 8,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0771.jpg?v=1749644628",
+            "variant_ids": [
+              50010898202914,
+              50010898235682,
+              50010898268450,
+              50010898301218,
+              50010898333986
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 14,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50010898333986,
+          "title": "somo yamo / XXL",
+          "option1": "somo yamo",
+          "option2": "XXL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60667833155874,
+            "product_id": 9754600603938,
+            "position": 8,
+            "created_at": "2025-06-08T19:35:57+01:00",
+            "updated_at": "2025-06-11T13:23:48+01:00",
+            "alt": null,
+            "width": 699,
+            "height": 913,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0771.jpg?v=1749644628",
+            "variant_ids": [
+              50010898202914,
+              50010898235682,
+              50010898268450,
+              50010898301218,
+              50010898333986
+            ]
+          },
+          "available": true,
+          "price": "449.00",
+          "grams": 0,
+          "compare_at_price": "899.00",
+          "position": 15,
+          "product_id": 9754600603938,
+          "created_at": "2025-06-08T19:42:58+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 60708685054242,
+          "created_at": "2025-06-10T21:23:45+01:00",
+          "position": 1,
+          "updated_at": "2025-06-10T21:23:56+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/1_95022bad-4ce8-45da-b708-432626f9fdf7.png?v=1749587036",
+          "width": 600,
+          "height": 900
+        },
+        {
+          "id": 60667833319714,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 2,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0773.jpg?v=1749644628",
+          "width": 608,
+          "height": 811
+        },
+        {
+          "id": 60667833188642,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 3,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [
+            50010898039074,
+            50010898071842,
+            50010898104610,
+            50010898137378,
+            50010898170146
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0770.jpg?v=1749644628",
+          "width": 699,
+          "height": 913
+        },
+        {
+          "id": 60667833221410,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 4,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0769.jpg?v=1749644628",
+          "width": 608,
+          "height": 811
+        },
+        {
+          "id": 60668386246946,
+          "created_at": "2025-06-08T20:12:22+01:00",
+          "position": 5,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/2_7ad401af-3456-404d-bc41-c6666d9d7bcf.png?v=1749644628",
+          "width": 450,
+          "height": 675
+        },
+        {
+          "id": 60667833123106,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 6,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [
+            50010894631202,
+            50010896302370,
+            50010896335138,
+            50010896367906,
+            50010896400674
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0774.jpg?v=1749644628",
+          "width": 608,
+          "height": 811
+        },
+        {
+          "id": 60667833090338,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 7,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0768.jpg?v=1749644628",
+          "width": 699,
+          "height": 913
+        },
+        {
+          "id": 60667833155874,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 8,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [
+            50010898202914,
+            50010898235682,
+            50010898268450,
+            50010898301218,
+            50010898333986
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0771.jpg?v=1749644628",
+          "width": 699,
+          "height": 913
+        },
+        {
+          "id": 60667833352482,
+          "created_at": "2025-06-08T19:35:57+01:00",
+          "position": 9,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0772.jpg?v=1749644628",
+          "width": 608,
+          "height": 811
+        },
+        {
+          "id": 60668386214178,
+          "created_at": "2025-06-08T20:12:22+01:00",
+          "position": 10,
+          "updated_at": "2025-06-11T13:23:48+01:00",
+          "product_id": 9754600603938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/3_5118a60a-2c44-40dc-a33e-112e9cd5ae0e.png?v=1749644628",
+          "width": 450,
+          "height": 675
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green",
+            "Navy",
+            "somo yamo"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9754049970466,
+      "title": "Robe jeans new collection 2026",
+      "handle": "robe-jeans-new-collection-2026",
+      "body_html": "<p>The latest Russian-inspired dress is one of the most beautiful dresses currently. The dress is very luxurious.</p>",
+      "published_at": "2025-06-08T00:41:30+01:00",
+      "created_at": "2025-06-08T00:41:28+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [
+        "brand",
+        "new collection 2025",
+        "quality",
+        "robe",
+        "santos1",
+        "santosmagic"
+      ],
+      "variants": [
+        {
+          "id": 50009423642914,
+          "title": "Bleu Ciel / S",
+          "option1": "Bleu Ciel",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 1,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:41:29+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009438486818,
+          "title": "Bleu Ciel / M",
+          "option1": "Bleu Ciel",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 2,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:45:23+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009438519586,
+          "title": "Bleu Ciel / L",
+          "option1": "Bleu Ciel",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 3,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:45:23+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009438552354,
+          "title": "Bleu Ciel / XL",
+          "option1": "Bleu Ciel",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 4,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:45:23+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009423675682,
+          "title": "Blue / S",
+          "option1": "Blue",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 5,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:41:29+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009438585122,
+          "title": "Blue / M",
+          "option1": "Blue",
+          "option2": "M",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 6,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:45:23+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009438617890,
+          "title": "Blue / L",
+          "option1": "Blue",
+          "option2": "L",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 7,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:45:23+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009438650658,
+          "title": "Blue / XL",
+          "option1": "Blue",
+          "option2": "XL",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 0,
+          "compare_at_price": "500.00",
+          "position": 8,
+          "product_id": 9754049970466,
+          "created_at": "2025-06-08T00:45:23+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 60656779133218,
+          "created_at": "2025-06-08T00:32:00+01:00",
+          "position": 1,
+          "updated_at": "2025-06-08T00:53:53+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0568_f02b8f02-fdf6-41e4-bfbf-5fdee44392e6.jpg?v=1749340433",
+          "width": 2500,
+          "height": 3749
+        },
+        {
+          "id": 60656774152482,
+          "created_at": "2025-06-08T00:31:33+01:00",
+          "position": 2,
+          "updated_at": "2025-06-08T00:31:34+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0732.jpg?v=1749339094",
+          "width": 1039,
+          "height": 1853
+        },
+        {
+          "id": 60656778543394,
+          "created_at": "2025-06-08T00:31:58+01:00",
+          "position": 3,
+          "updated_at": "2025-06-08T00:31:59+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0731.jpg?v=1749339119",
+          "width": 1040,
+          "height": 1858
+        },
+        {
+          "id": 60656774250786,
+          "created_at": "2025-06-08T00:31:34+01:00",
+          "position": 4,
+          "updated_at": "2025-06-08T00:31:35+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0558.jpg?v=1749339095",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 60656774283554,
+          "created_at": "2025-06-08T00:31:34+01:00",
+          "position": 5,
+          "updated_at": "2025-06-08T00:31:35+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0559.jpg?v=1749339095",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 60656774381858,
+          "created_at": "2025-06-08T00:31:34+01:00",
+          "position": 6,
+          "updated_at": "2025-06-08T00:31:36+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0568.jpg?v=1749339096",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 60656774316322,
+          "created_at": "2025-06-08T00:31:34+01:00",
+          "position": 7,
+          "updated_at": "2025-06-08T00:31:35+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0571.jpg?v=1749339095",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 60656778871074,
+          "created_at": "2025-06-08T00:31:59+01:00",
+          "position": 8,
+          "updated_at": "2025-06-08T00:32:00+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0732_85c23300-cd6e-43f3-a04a-61ec582779e4.jpg?v=1749339120",
+          "width": 1039,
+          "height": 1853
+        },
+        {
+          "id": 60656779100450,
+          "created_at": "2025-06-08T00:32:00+01:00",
+          "position": 9,
+          "updated_at": "2025-06-08T00:32:01+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0558_0756d8ea-20c0-431e-a5d7-7b015a95af85.jpg?v=1749339121",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 60656779198754,
+          "created_at": "2025-06-08T00:32:00+01:00",
+          "position": 10,
+          "updated_at": "2025-06-08T00:32:02+01:00",
+          "product_id": 9754049970466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0559_a7096b4e-7867-4f28-b17f-6b0d47144319.jpg?v=1749339122",
+          "width": 3024,
+          "height": 4032
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Bleu Ciel",
+            "Blue"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9753958318370,
+      "title": "Blazer Ensemble Melange De Crep Santos1 Collection",
+      "handle": "blazer-ensemble-melange-de-crep-santos1-collection",
+      "body_html": "<p>Blazer confectionné en filature avec un mélange de crep et de viscose. Col à revers crantés et manches longues avec ouverture et boutons. Poches sur le devant. Ceinture ajustable dans le même tissu avec nœuds. Doublure intérieure ton sur ton.</p>",
+      "published_at": "2025-06-07T23:30:19+01:00",
+      "created_at": "2025-06-07T23:30:17+01:00",
+      "updated_at": "2026-10-15T20:10:13+00:00",
+      "vendor": "santos one | shopping ",
+      "product_type": "",
+      "tags": [
+        "brand",
+        "ensemble",
+        "new collection 2025",
+        "quality",
+        "santosmagic",
+        "women"
+      ],
+      "variants": [
+        {
+          "id": 50009207144738,
+          "title": "Pink / S",
+          "option1": "Pink",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655983296802,
+            "product_id": 9753958318370,
+            "position": 4,
+            "created_at": "2025-06-07T23:20:04+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 1200,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0173_2.jpg?v=1749587046",
+            "variant_ids": [
+              50009207144738,
+              50009222349090,
+              50009222381858,
+              50009222414626
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 1,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:30:18+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222349090,
+          "title": "Pink / M",
+          "option1": "Pink",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655983296802,
+            "product_id": 9753958318370,
+            "position": 4,
+            "created_at": "2025-06-07T23:20:04+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 1200,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0173_2.jpg?v=1749587046",
+            "variant_ids": [
+              50009207144738,
+              50009222349090,
+              50009222381858,
+              50009222414626
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 2,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222381858,
+          "title": "Pink / L",
+          "option1": "Pink",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655983296802,
+            "product_id": 9753958318370,
+            "position": 4,
+            "created_at": "2025-06-07T23:20:04+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 1200,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0173_2.jpg?v=1749587046",
+            "variant_ids": [
+              50009207144738,
+              50009222349090,
+              50009222381858,
+              50009222414626
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 3,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222414626,
+          "title": "Pink / XL",
+          "option1": "Pink",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655983296802,
+            "product_id": 9753958318370,
+            "position": 4,
+            "created_at": "2025-06-07T23:20:04+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 1200,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0173_2.jpg?v=1749587046",
+            "variant_ids": [
+              50009207144738,
+              50009222349090,
+              50009222381858,
+              50009222414626
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 4,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009207177506,
+          "title": "White / S",
+          "option1": "White",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655984673058,
+            "product_id": 9753958318370,
+            "position": 2,
+            "created_at": "2025-06-07T23:20:09+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 2544,
+            "height": 3392,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_9997.jpg?v=1749587046",
+            "variant_ids": [
+              50009207177506,
+              50009222447394,
+              50009222480162,
+              50009222512930
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 5,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:30:18+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222447394,
+          "title": "White / M",
+          "option1": "White",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655984673058,
+            "product_id": 9753958318370,
+            "position": 2,
+            "created_at": "2025-06-07T23:20:09+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 2544,
+            "height": 3392,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_9997.jpg?v=1749587046",
+            "variant_ids": [
+              50009207177506,
+              50009222447394,
+              50009222480162,
+              50009222512930
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 6,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222480162,
+          "title": "White / L",
+          "option1": "White",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655984673058,
+            "product_id": 9753958318370,
+            "position": 2,
+            "created_at": "2025-06-07T23:20:09+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 2544,
+            "height": 3392,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_9997.jpg?v=1749587046",
+            "variant_ids": [
+              50009207177506,
+              50009222447394,
+              50009222480162,
+              50009222512930
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 7,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222512930,
+          "title": "White / XL",
+          "option1": "White",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 60655984673058,
+            "product_id": 9753958318370,
+            "position": 2,
+            "created_at": "2025-06-07T23:20:09+01:00",
+            "updated_at": "2025-06-10T21:24:06+01:00",
+            "alt": null,
+            "width": 2544,
+            "height": 3392,
+            "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_9997.jpg?v=1749587046",
+            "variant_ids": [
+              50009207177506,
+              50009222447394,
+              50009222480162,
+              50009222512930
+            ]
+          },
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 8,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009207210274,
+          "title": "Black / S",
+          "option1": "Black",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 9,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:30:18+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222545698,
+          "title": "Black / M",
+          "option1": "Black",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 10,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222578466,
+          "title": "Black / L",
+          "option1": "Black",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 11,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222611234,
+          "title": "Black / XL",
+          "option1": "Black",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 12,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009207243042,
+          "title": "Beige / S",
+          "option1": "Beige",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 13,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:30:18+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222644002,
+          "title": "Beige / M",
+          "option1": "Beige",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 14,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222676770,
+          "title": "Beige / L",
+          "option1": "Beige",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 15,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222709538,
+          "title": "Beige / XL",
+          "option1": "Beige",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 16,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009207275810,
+          "title": "kaki / S",
+          "option1": "kaki",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 17,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:30:18+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222742306,
+          "title": "kaki / M",
+          "option1": "kaki",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 18,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222775074,
+          "title": "kaki / L",
+          "option1": "kaki",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 19,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222807842,
+          "title": "kaki / XL",
+          "option1": "kaki",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 20,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009207308578,
+          "title": "Bleu Ciel / S",
+          "option1": "Bleu Ciel",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 21,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:30:18+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222840610,
+          "title": "Bleu Ciel / M",
+          "option1": "Bleu Ciel",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 22,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222873378,
+          "title": "Bleu Ciel / L",
+          "option1": "Bleu Ciel",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 23,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222906146,
+          "title": "Bleu Ciel / XL",
+          "option1": "Bleu Ciel",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 24,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009213632802,
+          "title": "somo yamo / S",
+          "option1": "somo yamo",
+          "option2": "S",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 25,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:32:34+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222938914,
+          "title": "somo yamo / M",
+          "option1": "somo yamo",
+          "option2": "M",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 26,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009222971682,
+          "title": "somo yamo / L",
+          "option1": "somo yamo",
+          "option2": "L",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 27,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        },
+        {
+          "id": 50009223004450,
+          "title": "somo yamo / XL",
+          "option1": "somo yamo",
+          "option2": "XL",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "549.00",
+          "grams": 0,
+          "compare_at_price": "700.00",
+          "position": 28,
+          "product_id": 9753958318370,
+          "created_at": "2025-06-07T23:36:46+01:00",
+          "updated_at": "2026-10-15T20:10:13+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 60708685087010,
+          "created_at": "2025-06-10T21:23:45+01:00",
+          "position": 1,
+          "updated_at": "2025-06-10T21:24:06+01:00",
+          "product_id": 9753958318370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/2_79839574-2c79-4682-90fe-334a1e302adf.png?v=1749587046",
+          "width": 600,
+          "height": 900
+        },
+        {
+          "id": 60655984673058,
+          "created_at": "2025-06-07T23:20:09+01:00",
+          "position": 2,
+          "updated_at": "2025-06-10T21:24:06+01:00",
+          "product_id": 9753958318370,
+          "variant_ids": [
+            50009207177506,
+            50009222447394,
+            50009222480162,
+            50009222512930
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_9997.jpg?v=1749587046",
+          "width": 2544,
+          "height": 3392
+        },
+        {
+          "id": 60661634662690,
+          "created_at": "2025-06-08T16:00:46+01:00",
+          "position": 3,
+          "updated_at": "2025-06-10T21:24:06+01:00",
+          "product_id": 9753958318370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/1_org_zoom.webp?v=1749587046",
+          "width": 400,
+          "height": 600
+        },
+        {
+          "id": 60655983296802,
+          "created_at": "2025-06-07T23:20:04+01:00",
+          "position": 4,
+          "updated_at": "2025-06-10T21:24:06+01:00",
+          "product_id": 9753958318370,
+          "variant_ids": [
+            50009207144738,
+            50009222349090,
+            50009222381858,
+            50009222414626
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_0173_2.jpg?v=1749587046",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 60655984640290,
+          "created_at": "2025-06-07T23:20:09+01:00",
+          "position": 5,
+          "updated_at": "2025-06-10T21:24:06+01:00",
+          "product_id": 9753958318370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/files/IMG_9998.jpg?v=1749587046",
+          "width": 3024,
+          "height": 4032
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "White",
+            "Black",
+            "Beige",
+            "kaki",
+            "Bleu Ciel",
+            "somo yamo"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    }
+  ]
+}

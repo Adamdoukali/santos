@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 10022106595618,
+    "title": "MANTECO ORIGINALLY ❤️‍🔥",
+    "handle": "manteco-originally-❤️‍🔥",
+    "category": "MANTEAUX",
+    "price": 850.0,
+    "price_formatted": "850.00 MAD",
+    "img": "assets/images/santos_products/10022106595618_0_DSC00749.jpg",
+    "images": [
+      "assets/images/santos_products/10022106595618_0_DSC00749.jpg",
+      "assets/images/santos_products/10022106595618_1_DSC00744.jpg",
+      "assets/images/santos_products/10022106595618_2_DSC00712.jpg",
+      "assets/images/santos_products/10022106595618_3_DSC00722.jpg"
+    ],
+    "colors": [
+      "Noir",
+      "Camel",
+      "Kaki"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 10022106595618,
+    "shopify_handle": "manteco-originally-❤️‍🔥",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/manteco-originally-❤️‍🔥",
+    "variant_id": 51266169012514,
+    "variants_map": [
+      {
+        "id": 51266169012514,
+        "title": "Default Title",
+        "price": 850.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 990.0,
+    "colors_data": [
+      {
+        "name": "Noir",
+        "hex": "#1a1a1a",
+        "img_idx": 0
+      },
+      {
+        "name": "Camel",
+        "hex": "#9e6d42",
+        "img_idx": 1
+      },
+      {
+        "name": "Kaki",
+        "hex": "#4b5320",
+        "img_idx": 2
+      }
+    ]
+  },
+  {
+    "id": 10022082576674,
+    "title": "Trensh original",
+    "handle": "trensh-original",
+    "category": "MANTEAUX",
+    "price": 700.0,
+    "price_formatted": "700.00 MAD",
+    "img": "assets/images/santos_products/10022082576674_0_DSC00933.jpg",
+    "images": [
+      "assets/images/santos_products/10022082576674_0_DSC00933.jpg",
+      "assets/images/santos_products/10022082576674_1_DSC00935.jpg",
+      "assets/images/santos_products/10022082576674_2_DSC00941.jpg",
+      "assets/images/santos_products/10022082576674_3_DSC00942.jpg"
+    ],
+    "colors": [
+      "Camel",
+      "Kaki Chic",
+      "Noir"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 10022082576674,
+    "shopify_handle": "trensh-original",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/trensh-original",
+    "variant_id": 51266020049186,
+    "variants_map": [
+      {
+        "id": 51266020049186,
+        "title": "Default Title",
+        "price": 700.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 850.0,
+    "colors_data": [
+      {
+        "name": "Camel",
+        "hex": "#b89069",
+        "img_idx": 0
+      },
+      {
+        "name": "Kaki Chic",
+        "hex": "#5a6344",
+        "img_idx": 1
+      },
+      {
+        "name": "Noir",
+        "hex": "#111111",
+        "img_idx": 2
+      }
+    ]
+  },
+  {
+    "id": 10020445946146,
+    "title": "ENSEMBLE SANTOS",
+    "handle": "ensemble-santos",
+    "category": "ENSEMBLES",
+    "price": 499.0,
+    "price_formatted": "499.00 MAD",
+    "img": "assets/images/santos_products/10020445946146_0_93A85E77-9570-47CF-942E-0F77FD3C48CA.jpg",
+    "images": [
+      "assets/images/santos_products/10020445946146_0_93A85E77-9570-47CF-942E-0F77FD3C48CA.jpg",
+      "assets/images/santos_products/10020445946146_1_7481849E-DD39-429A-A6BD-4DEFE934C719.jpg"
+    ],
+    "colors": [
+      "Red",
+      "Jaune"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 10020445946146,
+    "shopify_handle": "ensemble-santos",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/ensemble-santos",
+    "variant_id": 51259111538978,
+    "variants_map": [
+      {
+        "id": 51259111538978,
+        "title": "Red / S",
+        "price": 499.0,
+        "available": true
+      },
+      {
+        "id": 51259111571746,
+        "title": "Jaune / S",
+        "price": 499.0,
+        "available": true
+      },
+      {
+        "id": 51259113636130,
+        "title": "Red / M",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259113668898,
+        "title": "Red / L",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259113701666,
+        "title": "Red / XL",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259113734434,
+        "title": "Jaune / M",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259113767202,
+        "title": "Jaune / L",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259113799970,
+        "title": "Jaune / XL",
+        "price": 499.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 800.0,
+    "colors_data": [
+      {
+        "name": "Red",
+        "hex": "#a82020",
+        "img_idx": 0
+      },
+      {
+        "name": "Jaune",
+        "hex": "#d4a017",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 10020443914530,
+    "title": "BLAZER SURPIQÛRES CONTRASTE ZW COLLECTION LIMITED EDITION",
+    "handle": "blazer-surpiqures-contraste-zw-collection-limited-edition",
+    "category": "ENSEMBLES",
+    "price": 499.0,
+    "price_formatted": "499.00 MAD",
+    "img": "assets/images/santos_products/10020443914530_0_DSC00544.jpg",
+    "images": [
+      "assets/images/santos_products/10020443914530_0_DSC00544.jpg",
+      "assets/images/santos_products/10020443914530_1_DSC00553.jpg",
+      "assets/images/santos_products/10020443914530_2_DSC00558.jpg",
+      "assets/images/santos_products/10020443914530_3_DSC00548.jpg",
+      "assets/images/santos_products/10020443914530_4_DSC00551.jpg",
+      "assets/images/santos_products/10020443914530_5_DSC00554.jpg",
+      "assets/images/santos_products/10020443914530_6_DSC00561.jpg",
+      "assets/images/santos_products/10020443914530_7_DSC00560.jpg",
+      "assets/images/santos_products/10020443914530_8_DSC00615.jpg"
+    ],
+    "colors": [
+      "Noir",
+      "somo yamo",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 10020443914530,
+    "shopify_handle": "blazer-surpiqures-contraste-zw-collection-limited-edition",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/blazer-surpiqures-contraste-zw-collection-limited-edition",
+    "variant_id": 51259104395554,
+    "variants_map": [
+      {
+        "id": 51259104395554,
+        "title": "Noir",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259104428322,
+        "title": "somo yamo",
+        "price": 499.0,
+        "available": false
+      },
+      {
+        "id": 51259104461090,
+        "title": "Navy",
+        "price": 499.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 700.0,
+    "colors_data": [
+      {
+        "name": "Noir",
+        "hex": "#111111",
+        "img_idx": 0
+      },
+      {
+        "name": "somo yamo",
+        "hex": "#c67d63",
+        "img_idx": 1
+      },
+      {
+        "name": "Navy",
+        "hex": "#1d2a44",
+        "img_idx": 2
+      }
+    ]
+  },
+  {
+    "id": 10018444280098,
+    "title": "Regular Fit Wool Like Midi Length Belted Coat For Women santos",
+    "handle": "regular-fit-wool-like-midi-length-belted-coat-for-women-santos",
+    "category": "MANTEAUX",
+    "price": 750.0,
+    "price_formatted": "750.00 MAD",
+    "img": "assets/images/santos_products/10018444280098_0_DSC00692.jpg",
+    "images": [
+      "assets/images/santos_products/10018444280098_0_DSC00692.jpg",
+      "assets/images/santos_products/10018444280098_1_DSC00698.jpg",
+      "assets/images/santos_products/10018444280098_2_DSC00699.jpg",
+      "assets/images/santos_products/10018444280098_3_DSC00700.jpg"
+    ],
+    "colors": [
+      "Anthracite",
+      "Noir",
+      "Camel"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 10018444280098,
+    "shopify_handle": "regular-fit-wool-like-midi-length-belted-coat-for-women-santos",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/regular-fit-wool-like-midi-length-belted-coat-for-women-santos",
+    "variant_id": 51250286395682,
+    "variants_map": [
+      {
+        "id": 51250286395682,
+        "title": "Default Title",
+        "price": 0.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 890.0,
+    "colors_data": [
+      {
+        "name": "Anthracite",
+        "hex": "#4a4a4a",
+        "img_idx": 0
+      },
+      {
+        "name": "Noir",
+        "hex": "#181818",
+        "img_idx": 1
+      },
+      {
+        "name": "Camel",
+        "hex": "#aa7a4a",
+        "img_idx": 2
+      }
+    ]
+  },
+  {
+    "id": 10018427765026,
+    "title": "TRUE AVENUE BLACK VALE JACKET SANTOS",
+    "handle": "true-avenue-black-vale-jacket-santos",
+    "category": "MANTEAUX",
+    "price": 800.0,
+    "price_formatted": "800.00 MAD",
+    "img": "assets/images/santos_products/10018427765026_0_DSC00521.jpg",
+    "images": [
+      "assets/images/santos_products/10018427765026_0_DSC00521.jpg",
+      "assets/images/santos_products/10018427765026_1_DSC00528.jpg",
+      "assets/images/santos_products/10018427765026_2_DSC00531.jpg",
+      "assets/images/santos_products/10018427765026_3_DSC00535.jpg"
+    ],
+    "colors": [
+      "Noir Cuir",
+      "Chocolat"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 10018427765026,
+    "shopify_handle": "true-avenue-black-vale-jacket-santos",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/true-avenue-black-vale-jacket-santos",
+    "variant_id": 51250266964258,
+    "variants_map": [
+      {
+        "id": 51250266964258,
+        "title": "Default Title",
+        "price": 800.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 950.0,
+    "colors_data": [
+      {
+        "name": "Noir Cuir",
+        "hex": "#1c1c1c",
+        "img_idx": 0
+      },
+      {
+        "name": "Chocolat",
+        "hex": "#3b2219",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 10018397782306,
+    "title": "Women's Trench Coat Fleece-Lined Mid-length Jacket santos magic",
+    "handle": "womens-trench-coat-fleece-lined-mid-length-jacket-santos-magic",
+    "category": "MANTEAUX",
+    "price": 400.0,
+    "price_formatted": "400.00 MAD",
+    "img": "assets/images/santos_products/10018397782306_0_DSC00819.jpg",
+    "images": [
+      "assets/images/santos_products/10018397782306_0_DSC00819.jpg",
+      "assets/images/santos_products/10018397782306_1_DSC00830.jpg",
+      "assets/images/santos_products/10018397782306_2_DSC00832.jpg",
+      "assets/images/santos_products/10018397782306_3_DSC00828.jpg",
+      "assets/images/santos_products/10018397782306_4_DSC00819_1ff7d238-04e3-4b8e-8a61-334c7381f423.jpg",
+      "assets/images/santos_products/10018397782306_5_DSC00818.jpg",
+      "assets/images/santos_products/10018397782306_6_DSC00815.jpg",
+      "assets/images/santos_products/10018397782306_7_DSC00855.jpg",
+      "assets/images/santos_products/10018397782306_8_DSC00848.jpg"
+    ],
+    "colors": [
+      "Beige Sable",
+      "Kaki Fumé",
+      "Noir"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [
+      "santosmagic"
+    ],
+    "shopify_product_id": 10018397782306,
+    "shopify_handle": "womens-trench-coat-fleece-lined-mid-length-jacket-santos-magic",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/womens-trench-coat-fleece-lined-mid-length-jacket-santos-magic",
+    "variant_id": 51250231836962,
+    "variants_map": [
+      {
+        "id": 51250231836962,
+        "title": "Default Title",
+        "price": 400.0,
+        "available": false
+      }
+    ],
+    "compare_at_price": 550.0,
+    "colors_data": [
+      {
+        "name": "Beige Sable",
+        "hex": "#d8c29d",
+        "img_idx": 0
+      },
+      {
+        "name": "Kaki Fumé",
+        "hex": "#636854",
+        "img_idx": 1
+      },
+      {
+        "name": "Noir",
+        "hex": "#212121",
+        "img_idx": 2
+      }
+    ]
+  },
+  {
+    "id": 9998249427234,
+    "title": "Trench Kaki Chic Original",
+    "handle": "trench-kaki-chic-origina",
+    "category": "MANTEAUX",
+    "price": 599.0,
+    "price_formatted": "599.00 MAD",
+    "img": "assets/images/santos_products/9998249427234_0_WhatsAppImage2026-01-17at02.16.44_1.jpg",
+    "images": [
+      "assets/images/santos_products/9998249427234_0_WhatsAppImage2026-01-17at02.16.44_1.jpg",
+      "assets/images/santos_products/9998249427234_1_WhatsAppImage2026-01-17at02.16.44.jpg",
+      "assets/images/santos_products/9998249427234_2_WhatsAppImage2026-01-17at02.16.45_1.jpg",
+      "assets/images/santos_products/9998249427234_3_WhatsAppImage2026-01-17at02.16.45.jpg",
+      "assets/images/santos_products/9998249427234_4_WhatsAppImage2026-01-17at02.16.46.jpg"
+    ],
+    "colors": [
+      "Kaki Chic",
+      "Beige"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Trench long en tissu technique matelassé vert kaki profond, résistant à l'eau et au vent. Col montant zippé et double boutonnage pour une protection optimale. Ceinture à nouer à la taille pour une silhouette affinée et élégante. Manches longues avec pattes boutonnées, épaules structurées. Poches à rabat devant et poches intérieures pratiques. Longueur mi-mollet, disponible en S, M, L, XL.",
+    "tags": [],
+    "shopify_product_id": 9998249427234,
+    "shopify_handle": "trench-kaki-chic-origina",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/trench-kaki-chic-origina",
+    "variant_id": 50811124416802,
+    "variants_map": [
+      {
+        "id": 50811124416802,
+        "title": "Default Title",
+        "price": 599.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 750.0,
+    "colors_data": [
+      {
+        "name": "Kaki Chic",
+        "hex": "#4d5338",
+        "img_idx": 0
+      },
+      {
+        "name": "Beige",
+        "hex": "#c2b69d",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 9998248968482,
+    "title": "Combinaison Velvet Gold Luxe",
+    "handle": "combinaison-velvet-gold-luxe",
+    "category": "ENSEMBLES",
+    "price": 620.0,
+    "price_formatted": "620.00 MAD",
+    "img": "assets/images/santos_products/9998248968482_0_WhatsAppImage2026-01-17at02.19.40.jpg",
+    "images": [
+      "assets/images/santos_products/9998248968482_0_WhatsAppImage2026-01-17at02.19.40.jpg",
+      "assets/images/santos_products/9998248968482_1_WhatsAppImage2026-01-17at02.19.39.jpg",
+      "assets/images/santos_products/9998248968482_2_WhatsAppImage2026-01-17at02.19.39_1.jpg",
+      "assets/images/santos_products/9998248968482_3_WhatsAppImage2026-01-17at02.19.38_1.jpg"
+    ],
+    "colors": [
+      "Velours Doré",
+      "Noir"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Combinaison pantalon en velours froissé effet métallisé doré, au tombé fluide et élégant. Haut façon blazer croisé avec larges revers et décolleté en V. Ceinture à nouer à la taille pour marquer la silhouette. Pantalon large et long, resserré légèrement en bas pour un effet bouffant moderne. Deux poches côtés pratiques. Idéale pour soirées, événements, anniversaires et occasions spéciales. À porter avec sandales ou talons dorés/nude et une pochette minimaliste. Pièce forte: se suffit à elle‑même, il suffit d’ajouter des bijoux fins pour un rendu luxueux .",
+    "tags": [],
+    "shopify_product_id": 9998248968482,
+    "shopify_handle": "combinaison-velvet-gold-luxe",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/combinaison-velvet-gold-luxe",
+    "variant_id": 50811121860898,
+    "variants_map": [
+      {
+        "id": 50811121860898,
+        "title": "Default Title",
+        "price": 0.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 750.0,
+    "colors_data": [
+      {
+        "name": "Velours Doré",
+        "hex": "#a88942",
+        "img_idx": 0
+      },
+      {
+        "name": "Noir",
+        "hex": "#111111",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 9998239760674,
+    "title": "Manteco, manteau long ceinturé ultra chic",
+    "handle": "manteco-manteau-long-ceinture-ultra-chic",
+    "category": "MANTEAUX",
+    "price": 599.0,
+    "price_formatted": "599.00 MAD",
+    "img": "assets/images/santos_products/9998239760674_0_WhatsAppImage2026-01-17at02.15.21.jpg",
+    "images": [
+      "assets/images/santos_products/9998239760674_0_WhatsAppImage2026-01-17at02.15.21.jpg",
+      "assets/images/santos_products/9998239760674_1_WhatsAppImage2026-01-17at02.15.25.jpg",
+      "assets/images/santos_products/9998239760674_2_WhatsAppImage2026-01-17at02.15.28.jpg",
+      "assets/images/santos_products/9998239760674_3_WhatsApp_Image_2026-01-17_at_02.15.26.jpg",
+      "assets/images/santos_products/9998239760674_4_WhatsApp_Image_2026-01-17_at_02.15.27.jpg",
+      "assets/images/santos_products/9998239760674_5_WhatsApp_Image_2026-01-17_at_02.15.30.jpg"
+    ],
+    "colors": [
+      "Noir Imperial",
+      "Camel Royal"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Manteau long coupe droite avec ceinture à nouer à la taille pour une silhouette élancée . Col à larges revers et épaules légèrement tombantes pour un effet oversize moderne. Tissu effet laine, doux et chaud, parfait pour les journées fraîches (style « wool coat »). Manches longues avec patte boutonnée au poignet pour un fini élégant. Deux poches côtés pratiques et discrètes. Longueur sous le genou, idéale à porter avec bottes, escarpins ou baskets.",
+    "tags": [],
+    "shopify_product_id": 9998239760674,
+    "shopify_handle": "manteco-manteau-long-ceinture-ultra-chic",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/manteco-manteau-long-ceinture-ultra-chic",
+    "variant_id": 50811102626082,
+    "variants_map": [
+      {
+        "id": 50811102626082,
+        "title": "Default Title",
+        "price": 599.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 750.0,
+    "colors_data": [
+      {
+        "name": "Noir Imperial",
+        "hex": "#151515",
+        "img_idx": 0
+      },
+      {
+        "name": "Camel Royal",
+        "hex": "#8b5a2b",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 9997801423138,
+    "title": "Doudoune Original France",
+    "handle": "doudoune-original-france",
+    "category": "MANTEAUX",
+    "price": 499.0,
+    "price_formatted": "499.00 MAD",
+    "img": "assets/images/santos_products/9997801423138_0_IMG_3666.webp",
+    "images": [
+      "assets/images/santos_products/9997801423138_0_IMG_3666.webp",
+      "assets/images/santos_products/9997801423138_1_IMG_3667.jpg",
+      "assets/images/santos_products/9997801423138_2_IMG_3668.jpg",
+      "assets/images/santos_products/9997801423138_3_IMG_3669.jpg"
+    ],
+    "colors": [
+      "Noir Laqué",
+      "Blanc Neige"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Pièce signature de la collection Santos Haute Couture. Confectionnée avec des tissus d'exception pour une silhouette raffinée et intemporelle.",
+    "tags": [],
+    "shopify_product_id": 9997801423138,
+    "shopify_handle": "doudoune-original-france",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/doudoune-original-france",
+    "variant_id": 50808107598114,
+    "variants_map": [
+      {
+        "id": 50808107598114,
+        "title": "Default Title",
+        "price": 499.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 650.0,
+    "colors_data": [
+      {
+        "name": "Noir Laqué",
+        "hex": "#1a1a1a",
+        "img_idx": 0
+      },
+      {
+        "name": "Blanc Neige",
+        "hex": "#eeeeee",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 9754680787234,
+    "title": "Grace Buckle Detail Black Midi Shirt Dress",
+    "handle": "grace-buckle-detail-black-midi-shirt-dress",
+    "category": "ROBES",
+    "price": 349.0,
+    "price_formatted": "349.00 MAD",
+    "img": "assets/images/santos_products/9754680787234_0_IMG_0776_800x800_75ae9133-8fd6-4d9f-9c90-b901f3ec0878.webp",
+    "images": [
+      "assets/images/santos_products/9754680787234_0_IMG_0776_800x800_75ae9133-8fd6-4d9f-9c90-b901f3ec0878.webp",
+      "assets/images/santos_products/9754680787234_1_IMG_0775_800x800_6af0c397-03a6-49ee-813e-317e392b03ee.webp",
+      "assets/images/santos_products/9754680787234_2_IMG_0777_800x800_3db12012-d3dd-4c30-a84b-4e322bc2312e.webp"
+    ],
+    "colors": [
+      "Noir Intense",
+      "Marine"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Good to know Model is 5ft 6 and wears size UK 8 Designed for a relaxed fit Fits true to size, take your normal size",
+    "tags": [],
+    "shopify_product_id": 9754680787234,
+    "shopify_handle": "grace-buckle-detail-black-midi-shirt-dress",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/grace-buckle-detail-black-midi-shirt-dress",
+    "variant_id": 50011134984482,
+    "variants_map": [
+      {
+        "id": 50011134984482,
+        "title": "Default Title",
+        "price": 349.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 450.0,
+    "colors_data": [
+      {
+        "name": "Noir Intense",
+        "hex": "#111111",
+        "img_idx": 0
+      },
+      {
+        "name": "Marine",
+        "hex": "#18263b",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 9754600603938,
+    "title": "ENSEMBLE LIN SAHARA",
+    "handle": "ensemble-lin-sahara",
+    "category": "ENSEMBLES",
+    "price": 449.0,
+    "price_formatted": "449.00 MAD",
+    "img": "assets/images/santos_products/9754600603938_0_1_95022bad-4ce8-45da-b708-432626f9fdf7.png",
+    "images": [
+      "assets/images/santos_products/9754600603938_0_1_95022bad-4ce8-45da-b708-432626f9fdf7.png",
+      "assets/images/santos_products/9754600603938_1_IMG_0773.jpg",
+      "assets/images/santos_products/9754600603938_2_IMG_0770.jpg",
+      "assets/images/santos_products/9754600603938_3_IMG_0769.jpg",
+      "assets/images/santos_products/9754600603938_4_2_7ad401af-3456-404d-bc41-c6666d9d7bcf.png",
+      "assets/images/santos_products/9754600603938_5_IMG_0774.jpg",
+      "assets/images/santos_products/9754600603938_6_IMG_0768.jpg",
+      "assets/images/santos_products/9754600603938_7_IMG_0771.jpg",
+      "assets/images/santos_products/9754600603938_8_IMG_0772.jpg",
+      "assets/images/santos_products/9754600603938_9_3_5118a60a-2c44-40dc-a33e-112e9cd5ae0e.png"
+    ],
+    "colors": [
+      "Green",
+      "Navy",
+      "somo yamo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "desc": "Long-sleeved linen safari shirt, one size fits most, front button closure, front pockets with flaps and buttons, sleeves with buttons for tucking in, includes belt. Wide-leg linen safari pants, front button and zipper closure, side pockets.",
+    "tags": [],
+    "shopify_product_id": 9754600603938,
+    "shopify_handle": "ensemble-lin-sahara",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/ensemble-lin-sahara",
+    "variant_id": 50010894631202,
+    "variants_map": [
+      {
+        "id": 50010894631202,
+        "title": "Green / S",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010896302370,
+        "title": "Green / M",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010896335138,
+        "title": "Green / L",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010896367906,
+        "title": "Green / XL",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010896400674,
+        "title": "Green / XXL",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898039074,
+        "title": "Navy / S",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898071842,
+        "title": "Navy / M",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898104610,
+        "title": "Navy / L",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898137378,
+        "title": "Navy / XL",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898170146,
+        "title": "Navy / XXL",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898202914,
+        "title": "somo yamo / S",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898235682,
+        "title": "somo yamo / M",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898268450,
+        "title": "somo yamo / L",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898301218,
+        "title": "somo yamo / XL",
+        "price": 449.0,
+        "available": true
+      },
+      {
+        "id": 50010898333986,
+        "title": "somo yamo / XXL",
+        "price": 449.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 590.0,
+    "colors_data": [
+      {
+        "name": "Green",
+        "hex": "#4e6b50",
+        "img_idx": 0
+      },
+      {
+        "name": "Navy",
+        "hex": "#1d2a44",
+        "img_idx": 1
+      },
+      {
+        "name": "somo yamo",
+        "hex": "#c87a64",
+        "img_idx": 2
+      }
+    ]
+  },
+  {
+    "id": 9754049970466,
+    "title": "Robe jeans new collection 2026",
+    "handle": "robe-jeans-new-collection-2026",
+    "category": "ROBES",
+    "price": 399.0,
+    "price_formatted": "399.00 MAD",
+    "img": "assets/images/santos_products/9754049970466_0_IMG_0568_f02b8f02-fdf6-41e4-bfbf-5fdee44392e6.jpg",
+    "images": [
+      "assets/images/santos_products/9754049970466_0_IMG_0568_f02b8f02-fdf6-41e4-bfbf-5fdee44392e6.jpg",
+      "assets/images/santos_products/9754049970466_1_IMG_0732.jpg",
+      "assets/images/santos_products/9754049970466_2_IMG_0731.jpg",
+      "assets/images/santos_products/9754049970466_3_IMG_0558.jpg",
+      "assets/images/santos_products/9754049970466_4_IMG_0559.jpg",
+      "assets/images/santos_products/9754049970466_5_IMG_0568.jpg",
+      "assets/images/santos_products/9754049970466_6_IMG_0571.jpg",
+      "assets/images/santos_products/9754049970466_7_IMG_0732_85c23300-cd6e-43f3-a04a-61ec582779e4.jpg",
+      "assets/images/santos_products/9754049970466_8_IMG_0558_0756d8ea-20c0-431e-a5d7-7b015a95af85.jpg",
+      "assets/images/santos_products/9754049970466_9_IMG_0559_a7096b4e-7867-4f28-b17f-6b0d47144319.jpg"
+    ],
+    "colors": [
+      "Bleu Ciel",
+      "Blue Denim"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "The latest Russian-inspired dress is one of the most beautiful dresses currently. The dress is very luxurious.",
+    "tags": [
+      "brand",
+      "new collection 2025",
+      "quality",
+      "robe",
+      "santos1",
+      "santosmagic",
+      "jeans",
+      "robe"
+    ],
+    "shopify_product_id": 9754049970466,
+    "shopify_handle": "robe-jeans-new-collection-2026",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/robe-jeans-new-collection-2026",
+    "variant_id": 50009423642914,
+    "variants_map": [
+      {
+        "id": 50009423642914,
+        "title": "Bleu Ciel / S",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009438486818,
+        "title": "Bleu Ciel / M",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009438519586,
+        "title": "Bleu Ciel / L",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009438552354,
+        "title": "Bleu Ciel / XL",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009423675682,
+        "title": "Blue / S",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009438585122,
+        "title": "Blue / M",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009438617890,
+        "title": "Blue / L",
+        "price": 399.0,
+        "available": true
+      },
+      {
+        "id": 50009438650658,
+        "title": "Blue / XL",
+        "price": 399.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 490.0,
+    "colors_data": [
+      {
+        "name": "Bleu Ciel",
+        "hex": "#789bbe",
+        "img_idx": 0
+      },
+      {
+        "name": "Blue Denim",
+        "hex": "#2b4a72",
+        "img_idx": 1
+      }
+    ]
+  },
+  {
+    "id": 9753958318370,
+    "title": "Blazer Ensemble Melange De Crep Santos1 Collection",
+    "handle": "blazer-ensemble-melange-de-crep-santos1-collection",
+    "category": "ENSEMBLES",
+    "price": 549.0,
+    "price_formatted": "549.00 MAD",
+    "img": "assets/images/santos_products/9753958318370_0_2_79839574-2c79-4682-90fe-334a1e302adf.png",
+    "images": [
+      "assets/images/santos_products/9753958318370_0_2_79839574-2c79-4682-90fe-334a1e302adf.png",
+      "assets/images/santos_products/9753958318370_1_IMG_9997.jpg",
+      "assets/images/santos_products/9753958318370_2_1_org_zoom.webp",
+      "assets/images/santos_products/9753958318370_3_IMG_0173_2.jpg",
+      "assets/images/santos_products/9753958318370_4_IMG_9998.jpg"
+    ],
+    "colors": [
+      "Pink",
+      "White",
+      "Black",
+      "Beige",
+      "Kaki",
+      "Bleu Ciel",
+      "somo yamo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "desc": "Blazer confectionné en filature avec un mélange de crep et de viscose. Col à revers crantés et manches longues avec ouverture et boutons. Poches sur le devant. Ceinture ajustable dans le même tissu avec nœuds. Doublure intérieure ton sur ton.",
+    "tags": [
+      "brand",
+      "ensemble",
+      "new collection 2025",
+      "quality",
+      "santosmagic",
+      "women"
+    ],
+    "shopify_product_id": 9753958318370,
+    "shopify_handle": "blazer-ensemble-melange-de-crep-santos1-collection",
+    "shopify_url": "https://a9xpr3-x0.myshopify.com/products/blazer-ensemble-melange-de-crep-santos1-collection",
+    "variant_id": 50009207144738,
+    "variants_map": [
+      {
+        "id": 50009207144738,
+        "title": "Pink / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222349090,
+        "title": "Pink / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222381858,
+        "title": "Pink / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222414626,
+        "title": "Pink / XL",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009207177506,
+        "title": "White / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222447394,
+        "title": "White / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222480162,
+        "title": "White / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222512930,
+        "title": "White / XL",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009207210274,
+        "title": "Black / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222545698,
+        "title": "Black / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222578466,
+        "title": "Black / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222611234,
+        "title": "Black / XL",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009207243042,
+        "title": "Beige / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222644002,
+        "title": "Beige / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222676770,
+        "title": "Beige / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222709538,
+        "title": "Beige / XL",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009207275810,
+        "title": "kaki / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222742306,
+        "title": "kaki / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222775074,
+        "title": "kaki / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222807842,
+        "title": "kaki / XL",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009207308578,
+        "title": "Bleu Ciel / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222840610,
+        "title": "Bleu Ciel / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222873378,
+        "title": "Bleu Ciel / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222906146,
+        "title": "Bleu Ciel / XL",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009213632802,
+        "title": "somo yamo / S",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222938914,
+        "title": "somo yamo / M",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009222971682,
+        "title": "somo yamo / L",
+        "price": 549.0,
+        "available": true
+      },
+      {
+        "id": 50009223004450,
+        "title": "somo yamo / XL",
+        "price": 549.0,
+        "available": true
+      }
+    ],
+    "compare_at_price": 690.0,
+    "colors_data": [
+      {
+        "name": "Pink",
+        "hex": "#e8a5b8",
+        "img_idx": 0
+      },
+      {
+        "name": "White",
+        "hex": "#f5f5f5",
+        "img_idx": 1
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "img_idx": 2
+      },
+      {
+        "name": "Beige",
+        "hex": "#d6c4a8",
+        "img_idx": 3
+      },
+      {
+        "name": "Kaki",
+        "hex": "#556b2f",
+        "img_idx": 4
+      },
+      {
+        "name": "Bleu Ciel",
+        "hex": "#87ceeb",
+        "img_idx": 0
+      },
+      {
+        "name": "somo yamo",
+        "hex": "#c87a64",
+        "img_idx": 1
+      }
+    ]
+  }
+]

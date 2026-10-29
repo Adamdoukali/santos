@@ -1,0 +1,94 @@
+{
+  "collections": [
+    {
+      "id": 644352311586,
+      "title": "ENSEMBLES",
+      "handle": "ensembles",
+      "description": "",
+      "published_at": "2025-06-02T13:38:46+01:00",
+      "updated_at": "2026-02-11T20:05:01+01:00",
+      "image": {
+        "id": 1761822114082,
+        "created_at": "2025-06-02T13:38:46+01:00",
+        "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/collections/6cce1f76-db63-4dda-95f0-6f23a996b0c0.webp?v=1749415526",
+        "alt": null
+      },
+      "products_count": 5
+    },
+    {
+      "id": 644348150050,
+      "title": "Home page",
+      "handle": "frontpage",
+      "description": null,
+      "published_at": "2025-06-02T11:14:46+01:00",
+      "updated_at": "2026-02-10T16:43:55+01:00",
+      "image": null,
+      "products_count": 4
+    },
+    {
+      "id": 644367221026,
+      "title": "JEANS",
+      "handle": "jeans",
+      "description": "",
+      "published_at": "2025-06-02T23:11:07+01:00",
+      "updated_at": "2026-02-10T16:43:55+01:00",
+      "image": {
+        "id": 1761828733218,
+        "created_at": "2025-06-02T23:11:06+01:00",
+        "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/collections/2_1.webp?v=1749415551",
+        "alt": null
+      },
+      "products_count": 0
+    },
+    {
+      "id": 644352442658,
+      "title": "ROBES",
+      "handle": "robes",
+      "description": "",
+      "published_at": "2025-06-02T13:39:35+01:00",
+      "updated_at": "2026-02-10T16:43:55+01:00",
+      "image": {
+        "id": 1761822179618,
+        "created_at": "2025-06-02T13:40:47+01:00",
+        "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/collections/21508727-1bd6-488f-990b-266eca157be0.webp?v=1749415538",
+        "alt": null
+      },
+      "products_count": 3
+    },
+    {
+      "id": 644696178978,
+      "title": "santos denim suit",
+      "handle": "santos-denim-suit",
+      "description": "",
+      "published_at": "2025-06-11T12:15:18+01:00",
+      "updated_at": "2026-02-10T16:43:55+01:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 644696211746,
+      "title": "santos summer",
+      "handle": "santos-summer",
+      "description": "",
+      "published_at": "2025-06-11T12:15:39+01:00",
+      "updated_at": "2026-02-10T16:43:55+01:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 644352377122,
+      "title": "TOPS | BODYS",
+      "handle": "tops-bodys",
+      "description": "",
+      "published_at": "2025-06-02T13:39:18+01:00",
+      "updated_at": "2026-02-10T16:43:55+01:00",
+      "image": {
+        "id": 1761822146850,
+        "created_at": "2025-06-02T13:39:18+01:00",
+        "src": "https://cdn.shopify.com/s/files/1/0948/3980/0098/collections/ff8f1973-af80-4a58-8a4a-44b8cbda7b2f.webp?v=1749415561",
+        "alt": null
+      },
+      "products_count": 0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Video files exceeding GitHub 100MB limit or large binaries
+IMG_7829.MP4
+IMG_8366.MOV
+santos-shopify-theme.zip
+
+# Nested Shopify theme repo (maintained as separate repo)
+santos-shopify-theme/
+
+# Temporary, scratch, and cache files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

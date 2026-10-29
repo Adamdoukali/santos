@@ -1,0 +1,1246 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Santos — All Collections & Haute Couture Garments</title>
+  <meta name="description" content="Explore the full Santos collection: Manteaux, Trenchs Manteco, Ensembles & Tailleurs, Robes, and luxury Denim.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="app_style_balmoral.css">
+  <link rel="stylesheet" href="santos-custom.css">
+  <link rel="stylesheet" href="choice-reverse.css">
+
+  <style>
+    .collection-page {
+      padding-top: calc(var(--site-header-height) + 24px);
+      padding-bottom: 80px;
+      background-color: var(--color-white);
+    }
+    .collection-container {
+      width: 100%;
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 16px;
+      box-sizing: border-box;
+    }
+    .collection-header__inner {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+    @media (min-width: 768px) {
+      .collection-header__inner {
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: space-between;
+      }
+    }
+    .collection-title {
+      font-size: 28px;
+      margin: 0;
+      font-family: var(--font-serif);
+      letter-spacing: -0.02em;
+      color: #111;
+    }
+    @media (min-width: 768px) {
+      .collection-title {
+        font-size: 34px;
+      }
+    }
+    .collection-count {
+      font-size: 12px;
+      color: #777;
+      font-weight: 400;
+      margin-top: 4px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .filter-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 0;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .filter-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .filter-tab {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 16px;
+      border: 1px solid #dcdcdc;
+      background: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-radius: 20px;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      color: #222;
+      white-space: nowrap;
+    }
+    .filter-tab.is-active,
+    .filter-tab:hover {
+      background-color: var(--color-black);
+      color: var(--color-white);
+      border-color: var(--color-black);
+    }
+    .filter-tab.is-active {
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    .sort-select {
+      padding: 7px 14px;
+      border: 1px solid #dcdcdc;
+      background: #ffffff;
+      font-size: 12px;
+      font-family: inherit;
+      border-radius: 4px;
+      cursor: pointer;
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+    .sort-select:focus {
+      border-color: #111;
+    }
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      width: 100%;
+      margin-bottom: 60px;
+    }
+    @media (min-width: 680px) {
+      .product-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+      }
+    }
+    @media (min-width: 1024px) {
+      .product-grid {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 18px;
+      }
+    }
+    .product-card {
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      width: 100%;
+      text-decoration: none;
+      color: inherit;
+      background-color: #ffffff;
+      transition: transform 0.25s ease;
+    }
+    .product-card__thumbnail {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 3 / 4;
+      overflow: hidden;
+      background-color: #f7f7f7;
+      border-radius: 2px;
+    }
+    .product-card__img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center top;
+      display: block;
+      transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+    }
+    .product-card:hover .product-card__img {
+      transform: scale(1.04);
+    }
+    .product-card__content {
+      display: flex;
+      flex-direction: column;
+      padding: 8px 2px 4px 2px;
+    }
+    .product-card__title {
+      font-size: 13px;
+      font-weight: 400;
+      margin: 0 0 4px 0;
+      line-height: 1.35;
+      color: #111;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .product-card__price {
+      font-size: 13px;
+      color: #444;
+      font-weight: 500;
+      margin: 0;
+    }
+    .product-card__badge {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      background: rgba(18, 18, 18, 0.82);
+      color: #ffffff;
+      backdrop-filter: blur(4px);
+      padding: 2px 6px;
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border-radius: 2px;
+      z-index: 2;
+      pointer-events: none;
+    }
+    .product-card__quickadd {
+      position: absolute;
+      bottom: 8px;
+      left: 50%;
+      transform: translateX(-50%) translateY(10px);
+      background: #ffffff;
+      color: #111;
+      border: none;
+      padding: 7px 14px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      border-radius: 20px;
+      cursor: pointer;
+      opacity: 0;
+      transition: all 0.25s ease;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      white-space: nowrap;
+      z-index: 3;
+    }
+    .product-card:hover .product-card__quickadd {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+    .product-card__quickadd:hover {
+      background: #111;
+      color: #fff;
+    }
+
+    /* Modal Gallery Styles */
+    .modal-thumbs {
+      display: flex;
+      gap: 8px;
+      margin-top: 10px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+    .modal-thumb {
+      width: 56px;
+      height: 70px;
+      object-fit: cover;
+      cursor: pointer;
+      border: 1px solid var(--color-border);
+      opacity: 0.7;
+      transition: opacity 0.2s ease, border-color 0.2s ease;
+    }
+    .modal-thumb.is-active,
+    .modal-thumb:hover {
+      opacity: 1;
+      border-color: #121212;
+    }
+    .modal-colors {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin: 8px 0 16px 0;
+    }
+    .color-chip {
+      padding: 5px 12px;
+      border: 1px solid var(--color-border);
+      background: #fafafa;
+      font-size: 12px;
+      cursor: pointer;
+      border-radius: 2px;
+      transition: all 0.2s ease;
+    }
+    .color-chip.is-active,
+    .color-chip:hover {
+      background: #121212;
+      color: #fff;
+      border-color: #121212;
+    }
+  </style>
+</head>
+
+<body class="index">
+
+  <!-- Header -->
+  <header id="site-header" class="header-scrolled" role="banner">
+    <div class="site-header__wrap">
+      <nav class="site-header__leftNav" aria-label="Main Navigation">
+        <button class="site-header__burger d-xl-none" id="burger-btn" aria-label="Toggle Menu" aria-expanded="false" onclick="toggleMobileNav()">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <ul class="menu d-none d-xl-flex">
+          <li class="menu-item">
+            <a href="collection.html?filter=all">Collections</a>
+            <ul>
+              <li><a href="collection.html?filter=all">Toutes les pièces</a></li>
+              <li><a href="collection.html?filter=MANTEAUX">Manteaux & Trenchs</a></li>
+              <li><a href="collection.html?filter=ENSEMBLES">Ensembles & Tailleurs</a></li>
+              <li><a href="collection.html?filter=ROBES">Robes & Combinaisons</a></li>
+              <li><a href="collection.html?filter=JEANS">Denim & Jeans</a></li>
+            </ul>
+          </li>
+          <li class="menu-item"><a href="collection.html?filter=MANTEAUX">Manteaux</a></li>
+          <li class="menu-item"><a href="collection.html?filter=ENSEMBLES">Ensembles</a></li>
+          <li class="menu-item"><a href="collection.html?filter=ROBES">Robes</a></li>
+          <li class="menu-item"><a href="collection.html?filter=JEANS">Jeans</a></li>
+        </ul>
+      </nav>
+
+      <figure class="site-header__logo m-0 p-0">
+        <a class="site-header__logoLink" href="index.html" rel="home" title="Santos">
+          <img class="logo-img-black" src="santos-logo-black.png" alt="Santos Haute Couture">
+        </a>
+      </figure>
+
+      <nav class="site-header__rightNav" aria-label="Utility Navigation">
+        <ul class="menu d-none d-xl-flex">
+          <li class="menu-item">
+            <a href="index.html#about-us">La Maison</a>
+            <ul>
+              <li><a href="index.html#about-us">À Propos</a></li>
+              <li><a href="index.html#editorial">Lookbook</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <button class="site-header__searchBtn" id="search-toggle-btn" onclick="openSearch()" aria-label="Search">
+          <span class="d-none d-md-inline">Recherche</span>
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M6.93181 0.351318C10.2243 0.51812 12.8429 3.241 12.8429 6.57495L12.8351 6.89526C12.7612 8.35374 12.1845 9.67892 11.2765 10.7039L15.965 15.1873L15.6193 15.5486L15.2746 15.9099L10.5549 11.3972C9.48045 12.2768 8.10822 12.8064 6.6115 12.8064L6.29118 12.7986C3.1047 12.6373 0.549292 10.0817 0.387863 6.89526L0.380051 6.57495C0.380051 3.13352 3.17006 0.343506 6.6115 0.343506L6.93181 0.351318ZM6.6115 1.34351C3.72234 1.34351 1.38005 3.6858 1.38005 6.57495C1.38015 9.46402 3.7224 11.8064 6.6115 11.8064C9.50051 11.8063 11.8428 9.46396 11.8429 6.57495C11.8429 3.68586 9.50057 1.3436 6.6115 1.34351Z" fill="currentColor"/>
+          </svg>
+        </button>
+
+        <a href="index.html#about-us" class="site-header__accountLink d-none d-xl-inline-flex">Connexion</a>
+
+        <button class="site-header__cartBtn" id="cart-toggle-btn" onclick="openCart()" aria-label="Cart">
+          <span>Panier</span>
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14.4873 15.5L13.8662 5.29395H2.13379L1.5127 15.5H14.4873Z" stroke="currentColor"/>
+            <path d="M4.79773 4.79418V3.72043C4.79773 1.95195 6.23136 0.518323 7.99983 0.518323C9.7683 0.518323 11.2019 1.95195 11.2019 3.72043V4.79418" stroke="currentColor"/>
+          </svg>
+          <span class="cart-badge" id="header-cart-count">0</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Search Overlay -->
+  <div class="site-header__searchbar" id="search-overlay" aria-hidden="true">
+    <button class="site-header__searchClose" id="search-close-btn" onclick="closeSearch()" aria-label="Close search">
+      <svg width="14" height="14" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10.3535 0.353516L0.353516 10.3535" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M10.3535 10.3535L0.353516 0.353515" stroke="currentColor" stroke-width="1.5"/>
+      </svg>
+    </button>
+    <div class="search-form__fieldset">
+      <input type="text" class="search-form__input" id="search-input" placeholder="Rechercher dans la collection Santos..." autocomplete="off">
+      <button class="search-form__btn" type="button">Chercher</button>
+    </div>
+    <div class="search-suggestions">
+      <span>Recherches fréquentes:</span>
+      <span class="search-tag" onclick="quickFilter('Manteco')">Manteco</span>
+      <span class="search-tag" onclick="quickFilter('Trench')">Trench</span>
+      <span class="search-tag" onclick="quickFilter('Ensemble')">Ensemble Santos</span>
+      <span class="search-tag" onclick="quickFilter('Blazer')">Blazer ZW</span>
+      <span class="search-tag" onclick="quickFilter('Robe')">Robe Jeans</span>
+      <span class="search-tag" onclick="quickFilter('Lin')">Ensemble Lin Sahara</span>
+    </div>
+    <div id="search-results-box" class="products-4col-grid" style="margin-top: 24px; max-height: 400px; overflow-y: auto;"></div>
+  </div>
+
+  <!-- Mobile Navigation Overlay -->
+  <div class="site-nav" id="mobile-nav" aria-hidden="true">
+    <div class="site-nav__menu">
+      <div class="menu-item">
+        <a href="collection.html?filter=all" onclick="toggleMobileNav()">Collections</a>
+        <ul>
+          <li><a href="collection.html?filter=all" onclick="toggleMobileNav()">Toutes les pièces</a></li>
+          <li><a href="collection.html?filter=MANTEAUX" onclick="toggleMobileNav()">Manteaux & Trenchs</a></li>
+          <li><a href="collection.html?filter=ENSEMBLES" onclick="toggleMobileNav()">Ensembles & Tailleurs</a></li>
+          <li><a href="collection.html?filter=ROBES" onclick="toggleMobileNav()">Robes & Combinaisons</a></li>
+          <li><a href="collection.html?filter=JEANS" onclick="toggleMobileNav()">Jeans & Denim</a></li>
+        </ul>
+      </div>
+      <div class="menu-item">
+        <a href="index.html" onclick="toggleMobileNav()">Page d'Accueil</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- CHOICE MARQUEE TICKER (EXACT CHOICEWOMEN) -->
+  <div class="choice-ticker" aria-hidden="true">
+    <div class="choice-ticker__track">
+      <div class="choice-ticker__item">Livraison gratuite à partir de 500 DH d'achat !</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Paiement à la livraison partout au Maroc</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Échange et remboursement garantis sous 7 jours</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Nouvelle Collection Winter 2026-2027</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Pièces Couture & Drapés d'Exception</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Livraison gratuite à partir de 500 DH d'achat !</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Paiement à la livraison partout au Maroc</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Échange et remboursement garantis sous 7 jours</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Nouvelle Collection Winter 2026-2027</div>
+      <span class="choice-ticker__separator"></span>
+      <div class="choice-ticker__item">Pièces Couture & Drapés d'Exception</div>
+    </div>
+  </div>
+
+  <!-- Main Collection Content -->
+  <main class="collection-page" role="main">
+    <div class="collection-container">
+      <div class="collection-header__inner">
+        <div>
+          <h1 class="collection-title" id="page-title">Toutes les Pièces</h1>
+          <div class="collection-count" id="product-count-text">Chargement des créations Santos...</div>
+        </div>
+        <a href="index.html" class="btn --link">Retour à l'Accueil</a>
+      </div>
+
+      <!-- Filter Bar -->
+      <div class="filter-bar">
+        <div class="filter-tabs">
+          <button class="filter-tab is-active" data-filter="all" onclick="setFilter('all', this)">
+            Tous <span class="tab-count" id="count-all"></span>
+          </button>
+          <button class="filter-tab" data-filter="MANTEAUX" onclick="setFilter('MANTEAUX', this)">
+            Manteaux & Trenchs <span class="tab-count" id="count-manteaux"></span>
+          </button>
+          <button class="filter-tab" data-filter="ENSEMBLES" onclick="setFilter('ENSEMBLES', this)">
+            Ensembles & Tailleurs <span class="tab-count" id="count-ensembles"></span>
+          </button>
+          <button class="filter-tab" data-filter="ROBES" onclick="setFilter('ROBES', this)">
+            Robes & Combinaisons <span class="tab-count" id="count-robes"></span>
+          </button>
+          <button class="filter-tab" data-filter="JEANS" onclick="setFilter('JEANS', this)">
+            Denim & Jeans <span class="tab-count" id="count-jeans"></span>
+          </button>
+        </div>
+
+        <div>
+          <select class="sort-select" id="sort-select" onchange="applySorting()">
+            <option value="featured">Sélection Santos</option>
+            <option value="price-asc">Prix: Croissant</option>
+            <option value="price-desc">Prix: Décroissant</option>
+            <option value="name-asc">Nom: A-Z</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Products Grid -->
+      <div class="choice-grid" id="collection-grid"></div>
+    </div>
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="footer-grid">
+      <nav class="footer-nav">
+        <ul>
+          <li><a href="index.html#contact">Contact</a></li>
+          <li><a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a></li>
+          <li><a href="index.html#faq">FAQ</a></li>
+        </ul>
+        <ul>
+          <li><a href="index.html#shipping">Livraison & Retours</a></li>
+          <li><a href="index.html#returns">Suivi de commande</a></li>
+        </ul>
+        <ul>
+          <li><a href="index.html#about-us">La Maison Santos</a></li>
+          <li><a href="index.html#terms">Conditions & Confidentialité</a></li>
+        </ul>
+      </nav>
+
+      <div class="newsletter-box">
+        <h4>Newsletter Santos Privilège</h4>
+        <form class="newsletter-form" onsubmit="event.preventDefault(); showToast('Merci de rejoindre le cercle Santos.'); this.reset();">
+          <input type="email" class="newsletter-input" placeholder="Votre adresse email" required>
+          <button type="submit" class="newsletter-submit">S'inscrire</button>
+        </form>
+      </div>
+
+      <div class="footer-selectors">
+        <div class="footer-select-wrap">
+          <label>Pays / Devise</label>
+          <select class="footer-select">
+            <option value="CA">Canada (CAD)</option>
+            <option value="US">États-Unis (USD)</option>
+            <option value="FR">France (EUR)</option>
+            <option value="MA" selected>Maroc (MAD)</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p class="m-0">Copyright © 2026 Santos. Tous droits réservés.</p>
+      <p class="m-0">Haute Couture & Prêt-à-Porter d'Exception</p>
+    </div>
+  </footer>
+
+  <!-- CART DRAWER -->
+  <div class="site-cart" id="cart-drawer" aria-hidden="true">
+    <div class="site-cart__backdrop" id="cart-backdrop" onclick="closeCart()"></div>
+    <div class="site-cart__container">
+      <div class="site-cart__header">
+        <h3 class="ff-heading">Votre Panier (<span id="cart-drawer-count">0</span>)</h3>
+        <button class="site-cart__close" onclick="closeCart()" aria-label="Fermer le panier">
+          <svg width="14" height="14" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.3535 0.353516L0.353516 10.3535" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M10.3535 10.3535L0.353516 0.353515" stroke="currentColor" stroke-width="1.5"/>
+          </svg>
+        </button>
+      </div>
+
+      <div class="site-cart__freeship">
+        <span id="freeship-text">Livraison offerte dès 500 MAD d'achats</span>
+        <div class="site-cart__freeship-bar">
+          <div class="site-cart__freeship-fill" id="freeship-fill" style="width: 0%;"></div>
+        </div>
+      </div>
+
+      <div class="site-cart__items" id="cart-items-container"></div>
+
+      <div class="site-cart__footer">
+        <div class="cart-subtotal">
+          <span>Sous-total</span>
+          <span id="cart-subtotal-price">0.00 MAD</span>
+        </div>
+        <button class="btn-checkout" onclick="handleCheckout()">Commander en Toute Sécurité</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PRODUCT QUICK VIEW MODAL WITH GALLERY -->
+  <div class="modal-overlay" id="product-modal" aria-hidden="true">
+    <div class="modal-container">
+      <button class="modal-close" onclick="closeProductModal()" aria-label="Close modal">
+        <svg width="14" height="14" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.3535 0.353516L0.353516 10.3535" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M10.3535 10.3535L0.353516 0.353515" stroke="currentColor" stroke-width="1.5"/>
+        </svg>
+      </button>
+
+      <div class="modal-media" style="padding: 16px; display: flex; flex-direction: column;">
+        <img id="modal-img" src="" alt="Product Image" style="aspect-ratio: 3/4; object-fit: cover; width: 100%;">
+        <div class="modal-thumbs" id="modal-thumbs"></div>
+      </div>
+
+      <div class="modal-details">
+        <h2 class="modal-title ff-heading" id="modal-title">Product Title</h2>
+        <div class="modal-price" id="modal-price">0.00 MAD</div>
+        <p class="fz-14 lh-16" id="modal-desc" style="color: #555; margin: 0 0 16px 0;"></p>
+
+        <div id="modal-color-section" style="display: none; margin-bottom: 12px;">
+          <label class="fz-12 fw-500 tt-uppercase" style="letter-spacing: 0.05em; color: #777;">Couleurs disponibles</label>
+          <div class="modal-colors" id="modal-colors"></div>
+        </div>
+
+        <label class="fz-12 fw-500 tt-uppercase" style="letter-spacing: 0.05em; color: #777;">Sélectionnez votre taille</label>
+        <div class="modal-sizes" id="modal-sizes">
+          <button class="size-btn is-active" type="button" onclick="selectSize(this)">S</button>
+          <button class="size-btn" type="button" onclick="selectSize(this)">M</button>
+          <button class="size-btn" type="button" onclick="selectSize(this)">L</button>
+          <button class="size-btn" type="button" onclick="selectSize(this)">XL</button>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 8px; margin-top: auto;">
+          <button class="btn-checkout" type="button" style="background: #ffffff; color: #111111; border: 1.5px solid #111111;" onclick="addModalItemToCart()">Ajouter au Panier</button>
+          <button class="choice-cod-submit-btn" type="button" style="margin-top: 0;" onclick="buyModalItemCod()">Acheter avec paiement à la livraison</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CHOICEWOMEN REVERSE-ENGINEERED EASYSELL COD CHECKOUT MODAL -->
+  <div class="choice-cod-overlay" id="choice-cod-modal-overlay" aria-hidden="true">
+    <div class="choice-cod-modal" role="dialog" aria-modal="true" aria-labelledby="cod-modal-title">
+      <!-- Header Notice Bar -->
+      <div class="choice-cod-header">
+        <p id="cod-modal-title">Commandez et payez à la livraison avec possibilité d'échange gratuit et de remboursement</p>
+        <button type="button" class="choice-cod-close" onclick="closeCodCheckout()" aria-label="Fermer">✕</button>
+      </div>
+
+      <!-- Main Form & Content -->
+      <div class="choice-cod-body" id="choice-cod-form-container">
+        <!-- Selected Item Card -->
+        <div class="choice-cod-product-item">
+          <div class="choice-cod-thumb-wrap">
+            <img id="cod-item-thumb" class="choice-cod-thumb" src="" alt="Aperçu produit">
+            <span class="choice-cod-qty-badge" id="cod-item-qty-badge">1</span>
+          </div>
+          <div class="choice-cod-product-details">
+            <div class="choice-cod-product-name" id="cod-item-title">Produit Santos</div>
+            <div class="choice-cod-product-variant" id="cod-item-variant">Noir / M</div>
+          </div>
+          <div class="choice-cod-product-price" id="cod-item-price">0.00 dh</div>
+        </div>
+
+        <!-- Quantity Bundle Offers (Choice EasySell Multi-Pack Deals) -->
+        <div class="choice-cod-bundle-section">
+          <h4 class="choice-cod-bundle-title">Offres spéciales multi-pièces :</h4>
+          <div class="choice-bundle-options">
+            <div class="choice-bundle-card is-active" onclick="selectBundle(1, this)">
+              <div class="choice-bundle-left">
+                <div class="choice-bundle-radio"></div>
+                <div>
+                  <span class="choice-bundle-name">Acheter 1 pièce</span>
+                </div>
+              </div>
+              <div class="choice-bundle-price" id="bundle-price-1">0.00 dh</div>
+            </div>
+
+            <div class="choice-bundle-card" onclick="selectBundle(2, this)">
+              <div class="choice-bundle-left">
+                <div class="choice-bundle-radio"></div>
+                <div>
+                  <span class="choice-bundle-name">Prenez 2 pièces</span>
+                  <span class="choice-bundle-badge">Save 15%</span>
+                </div>
+              </div>
+              <div class="choice-bundle-price" id="bundle-price-2">0.00 dh</div>
+            </div>
+
+            <div class="choice-bundle-card" onclick="selectBundle(3, this)">
+              <div class="choice-bundle-left">
+                <div class="choice-bundle-radio"></div>
+                <div>
+                  <span class="choice-bundle-name">Prenez 3 pièces</span>
+                  <span class="choice-bundle-badge">Save 20% • Populaire</span>
+                </div>
+              </div>
+              <div class="choice-bundle-price" id="bundle-price-3">0.00 dh</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Order Summary Breakdown -->
+        <div class="choice-cod-summary-box">
+          <div class="choice-cod-summary-row">
+            <span>Sous-total</span>
+            <span id="cod-summary-subtotal">0.00 dh</span>
+          </div>
+          <div class="choice-cod-summary-row" id="cod-discount-row" style="display: none; color: #b91c1c;">
+            <span>Remise</span>
+            <span id="cod-discount-val">-0.00 dh</span>
+          </div>
+          <div class="choice-cod-summary-row">
+            <span>Expédition</span>
+            <span id="cod-shipping">Gratuit</span>
+          </div>
+          <div class="choice-cod-summary-row total-row">
+            <span>Total</span>
+            <span id="cod-total">0.00 dh</span>
+          </div>
+        </div>
+
+        <!-- Coupon Code Row -->
+        <div class="choice-cod-coupon-wrap">
+          <input type="text" class="choice-cod-coupon-input" id="cod-coupon-input" placeholder="Code promo (ex: SANTOS10)">
+          <button type="button" class="choice-cod-coupon-btn" onclick="applyCodCoupon()">Appliquer</button>
+        </div>
+
+        <!-- Marketing Opt-In Checkbox -->
+        <label class="choice-cod-optin">
+          <input type="checkbox" id="cod-optin-checkbox" checked>
+          <span>Abonnez-vous pour rester informé des nouveaux arrivages et des offres privées !</span>
+        </label>
+
+        <!-- Form Inputs with Icons -->
+        <form class="choice-cod-form" id="choice-cod-form" onsubmit="submitCodOrder(event)">
+          <div class="choice-cod-field-group">
+            <label class="choice-cod-field-label">Prénom <span class="req">*</span></label>
+            <div class="choice-cod-input-wrap">
+              <span class="choice-cod-input-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+              </span>
+              <input type="text" class="choice-cod-input" id="cod-first-name" placeholder="PRÉNOM" required>
+            </div>
+          </div>
+
+          <div class="choice-cod-field-group">
+            <label class="choice-cod-field-label">Nom <span class="req">*</span></label>
+            <div class="choice-cod-input-wrap">
+              <span class="choice-cod-input-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+              </span>
+              <input type="text" class="choice-cod-input" id="cod-last-name" placeholder="NOM" required>
+            </div>
+          </div>
+
+          <div class="choice-cod-field-group">
+            <label class="choice-cod-field-label">Téléphone <span class="req">*</span></label>
+            <div class="choice-cod-input-wrap">
+              <span class="choice-cod-input-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              </span>
+              <input type="tel" class="choice-cod-input" id="cod-phone" placeholder="06 XX XX XX XX" required pattern="[0-9+ ]{9,15}">
+            </div>
+          </div>
+
+          <div class="choice-cod-field-group">
+            <label class="choice-cod-field-label">Ville <span class="req">*</span></label>
+            <div class="choice-cod-input-wrap">
+              <span class="choice-cod-input-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+              </span>
+              <select class="choice-cod-input" id="cod-city-select" required>
+                <option value="" disabled selected>Sélectionnez votre ville</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="choice-cod-field-group">
+            <label class="choice-cod-field-label">Adresse <span class="req">*</span></label>
+            <div class="choice-cod-input-wrap">
+              <span class="choice-cod-input-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+              </span>
+              <input type="text" class="choice-cod-input" id="cod-address" placeholder="Quartier, Rue, N° d'appartement..." required>
+            </div>
+          </div>
+
+          <!-- Big Green CTA Button -->
+          <button type="submit" class="choice-cod-submit-btn" id="cod-submit-btn">
+            Terminez votre achat - 0.00 dh
+          </button>
+        </form>
+
+        <!-- Trust Badges -->
+        <div class="choice-cod-badges">
+          <div class="choice-cod-badge-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="15" height="13"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></svg>
+            <span>Livraison 24-48h partout au Maroc</span>
+          </div>
+          <div class="choice-cod-badge-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="20" height="12" rx="2"></rect><circle cx="12" cy="12" r="2"></circle><path d="M6 12h.01M18 12h.01"></path></svg>
+            <span>Paiement cash à la livraison</span>
+          </div>
+          <div class="choice-cod-badge-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path></svg>
+            <span>Échange & retour faciles sous 7 jours</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Success Confirmation View -->
+      <div class="choice-cod-success" id="choice-cod-success">
+        <div class="choice-success-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+        </div>
+        <h3 class="choice-success-title">🎉 Votre commande a été passée avec succès 🎉</h3>
+        <p class="choice-success-desc">
+          Merci de faire vos achats chez Maison Santos !<br>
+          Commande <strong>#<span id="success-order-num"></span></strong> confirmée pour un montant total de <strong><span id="success-order-total"></span></strong>.<br>
+          Destinataire : <span id="success-order-client"></span>.<br>
+          Notre service logistique vous contactera par téléphone ou WhatsApp avant l'expédition.
+        </p>
+
+        <a href="#" target="_blank" rel="noopener" class="choice-whatsapp-btn" id="success-wa-btn">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.311.045-.698.077-2.073-.487-1.761-.722-2.884-2.518-2.971-2.635-.088-.117-.714-.95-.714-1.815 0-.865.453-1.29.614-1.464.161-.173.351-.217.468-.217.117 0 .234 0 .336.006.107.005.25.041.385.367.144.348.497 1.21.541 1.3.044.088.073.19.015.305-.059.117-.088.19-.176.293-.088.102-.185.228-.264.306-.088.088-.18.184-.078.36.102.175.456.752.978 1.217.673.599 1.24.785 1.416.872.176.088.278.073.381-.044.103-.117.439-.511.556-.687.117-.175.234-.146.395-.088.161.059 1.025.483 1.201.571.176.088.293.131.336.205.044.073.044.424-.1829z"/></svg>
+          Confirmer ma commande sur WhatsApp
+        </a>
+
+        <button type="button" class="btn --link" onclick="closeCodCheckout()" style="margin-top: 8px;">
+          Continuer mes achats
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast-msg" id="toast-msg">Pièce ajoutée à votre panier</div>
+
+  <!-- JavaScript -->
+  <script>
+    let realProducts = [];
+    let activeFilter = 'all';
+    let cart = [
+      { name: 'MANTECO ORIGINALLY ❤️‍🔥', price: 850.0, img: 'assets/images/santos_products/10022106595618_0_DSC00749.jpg', size: 'M', color: 'Original', qty: 1 }
+    ];
+
+    let currentModalProduct = null;
+    let selectedModalSize = 'M';
+    let selectedModalColor = '';
+
+    async function loadRealCatalog() {
+      try {
+        const resp = await fetch('santos_real_products.json');
+        realProducts = await resp.json();
+        window.realProducts = realProducts;
+        window.allProductsData = realProducts;
+      } catch (err) {
+        console.error('Error fetching santos_real_products:', err);
+      }
+
+      // Populate tab counts
+      const countAll = document.getElementById('count-all');
+      if (countAll) countAll.textContent = `(${realProducts.length})`;
+      const countManteaux = document.getElementById('count-manteaux');
+      if (countManteaux) countManteaux.textContent = `(${realProducts.filter(p => p.category === 'MANTEAUX').length})`;
+      const countEnsembles = document.getElementById('count-ensembles');
+      if (countEnsembles) countEnsembles.textContent = `(${realProducts.filter(p => p.category === 'ENSEMBLES').length})`;
+      const countRobes = document.getElementById('count-robes');
+      if (countRobes) countRobes.textContent = `(${realProducts.filter(p => p.category === 'ROBES').length})`;
+      const countJeans = document.getElementById('count-jeans');
+      if (countJeans) countJeans.textContent = `(${realProducts.filter(p => (p.category === 'JEANS') || (p.tags && p.tags.includes('jeans')) || p.title.toLowerCase().includes('jean')).length})`;
+
+      const params = new URLSearchParams(window.location.search);
+      const filterParam = params.get('filter');
+      const titleMap = {
+        all: 'Toutes les Pièces',
+        MANTEAUX: 'Manteaux & Trenchs Santos',
+        ENSEMBLES: 'Ensembles & Tailleurs',
+        ROBES: 'Robes & Combinaisons',
+        JEANS: 'Denim & Jeans Santos'
+      };
+      if (filterParam) {
+        activeFilter = filterParam;
+        document.querySelectorAll('.filter-tab').forEach(t => {
+          if (t.dataset.filter === filterParam) t.classList.add('is-active');
+          else t.classList.remove('is-active');
+        });
+        if (titleMap[filterParam]) {
+          document.getElementById('page-title').textContent = titleMap[filterParam];
+        }
+      }
+
+      renderProducts();
+      updateCartDisplay();
+    }
+
+    function setFilter(category, btn) {
+      activeFilter = category;
+      document.querySelectorAll('.filter-tab').forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+
+      const titleMap = {
+        all: 'Toutes les Pièces',
+        MANTEAUX: 'Manteaux & Trenchs Santos',
+        ENSEMBLES: 'Ensembles & Tailleurs',
+        ROBES: 'Robes & Combinaisons',
+        JEANS: 'Denim & Jeans Santos'
+      };
+      document.getElementById('page-title').textContent = titleMap[category] || 'Collection';
+
+      renderProducts();
+    }
+
+    function applySorting() {
+      renderProducts();
+    }
+
+    function renderProducts() {
+      const grid = document.getElementById('collection-grid');
+      if (!grid) return;
+
+      let filtered = (activeFilter === 'all') 
+        ? [...realProducts] 
+        : realProducts.filter(p => {
+            if (activeFilter.toUpperCase() === 'JEANS') {
+              return p.category === 'JEANS' || (p.tags && p.tags.includes('jeans')) || p.title.toLowerCase().includes('jeans') || p.title.toLowerCase().includes('denim') || p.title.toLowerCase().includes('jean');
+            }
+            return (p.category || '').toUpperCase() === activeFilter.toUpperCase();
+          });
+
+      const sortMode = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'featured';
+      if (sortMode === 'price-asc') {
+        filtered.sort((a, b) => a.price - b.price);
+      } else if (sortMode === 'price-desc') {
+        filtered.sort((a, b) => b.price - a.price);
+      } else if (sortMode === 'name-asc') {
+        filtered.sort((a, b) => a.title.localeCompare(b.title));
+      }
+
+      document.getElementById('product-count-text').textContent = `Affichage de ${filtered.length} créations Santos`;
+
+      grid.className = 'choice-grid';
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div style="grid-column: 1/-1; text-align: center; padding: 60px 20px; color: #777;">
+            <p style="font-size: 15px; text-transform: uppercase; letter-spacing: 0.05em;">Aucune création trouvée dans cette catégorie.</p>
+          </div>
+        `;
+        return;
+      }
+
+      if (typeof createChoiceCardHtml === 'function') {
+        grid.innerHTML = filtered.map(p => createChoiceCardHtml(p)).join('');
+      } else {
+        grid.innerHTML = filtered.map(p => `
+          <article class="choice-card" onclick="openProductModalByIndex(${realProducts.indexOf(p)})">
+            <div class="choice-card__media">
+              <img class="choice-card__img" src="${p.img}" alt="${p.title}" loading="lazy">
+              <button class="choice-card__quick-add" type="button">Aperçu Rapide</button>
+            </div>
+            <div class="choice-card__info">
+              <h3 class="choice-card__title">${p.title}</h3>
+              <div class="choice-card__price-row">
+                <span class="choice-card__price-sale">${p.price.toFixed(2)} dh</span>
+              </div>
+            </div>
+          </article>
+        `).join('');
+      }
+    }
+
+    function openProductModalByIndex(idx) {
+      const p = realProducts[idx];
+      if (!p) return;
+      currentModalProduct = p;
+      selectedModalColor = p.colors && p.colors.length > 0 ? p.colors[0] : '';
+      selectedModalSize = p.sizes && p.sizes.length > 0 ? p.sizes[0] : 'M';
+
+      document.getElementById('modal-title').textContent = p.title;
+      document.getElementById('modal-price').textContent = p.price.toFixed(2) + ' MAD';
+      document.getElementById('modal-img').src = p.img;
+      document.getElementById('modal-desc').textContent = p.desc;
+
+      // Gallery thumbnails
+      const thumbsContainer = document.getElementById('modal-thumbs');
+      if (p.images && p.images.length > 1) {
+        thumbsContainer.style.display = 'flex';
+        thumbsContainer.innerHTML = p.images.map((imgSrc, i) => `
+          <img src="${imgSrc}" class="modal-thumb ${i === 0 ? 'is-active' : ''}" onclick="switchModalThumb('${imgSrc}', this)" alt="Vue ${i+1}">
+        `).join('');
+      } else {
+        thumbsContainer.style.display = 'none';
+      }
+
+      // Color Chips
+      const colorSection = document.getElementById('modal-color-section');
+      const colorsContainer = document.getElementById('modal-colors');
+      if (p.colors && p.colors.length > 0) {
+        colorSection.style.display = 'block';
+        colorsContainer.innerHTML = p.colors.map((c, i) => `
+          <button class="color-chip ${i === 0 ? 'is-active' : ''}" type="button" onclick="selectColor('${c}', this)">${c}</button>
+        `).join('');
+      } else {
+        colorSection.style.display = 'none';
+      }
+
+      // Sizes
+      const sizesContainer = document.getElementById('modal-sizes');
+      const availableSizes = (p.sizes && p.sizes.length > 0) ? p.sizes : ['S', 'M', 'L', 'XL'];
+      sizesContainer.innerHTML = availableSizes.map((s, i) => `
+        <button class="size-btn ${i === 0 ? 'is-active' : ''}" type="button" onclick="selectSize(this)">${s}</button>
+      `).join('');
+
+      const modal = document.getElementById('product-modal');
+      modal.classList.add('is-active');
+      modal.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function switchModalThumb(src, thumb) {
+      document.getElementById('modal-img').src = src;
+      document.querySelectorAll('.modal-thumb').forEach(t => t.classList.remove('is-active'));
+      thumb.classList.add('is-active');
+    }
+
+    function selectColor(color, chip) {
+      selectedModalColor = color;
+      document.querySelectorAll('.color-chip').forEach(c => c.classList.remove('is-active'));
+      chip.classList.add('is-active');
+
+      if (currentModalProduct && currentModalProduct.colors_data) {
+        const cData = currentModalProduct.colors_data.find(c => c.name.toLowerCase() === color.toLowerCase());
+        if (cData && currentModalProduct.images && currentModalProduct.images[cData.img_idx]) {
+          const targetSrc = currentModalProduct.images[cData.img_idx];
+          document.getElementById('modal-img').src = targetSrc;
+          const thumbs = document.querySelectorAll('.modal-thumb');
+          thumbs.forEach((t, i) => {
+            if (i === cData.img_idx) t.classList.add('is-active');
+            else t.classList.remove('is-active');
+          });
+        }
+      }
+    }
+
+    function selectSize(btn) {
+      document.querySelectorAll('.size-btn').forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+      selectedModalSize = btn.textContent;
+    }
+
+    function closeProductModal() {
+      const modal = document.getElementById('product-modal');
+      modal.classList.remove('is-active');
+      modal.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+
+    function addModalItemToCart() {
+      if (!currentModalProduct) return;
+      let matchedVariantId = currentModalProduct.variant_id || null;
+      if (currentModalProduct.variants_map && currentModalProduct.variants_map.length > 0) {
+        const optionSearch = [];
+        if (selectedModalColor) optionSearch.push(selectedModalColor.toLowerCase());
+        if (selectedModalSize) optionSearch.push(selectedModalSize.toLowerCase());
+        
+        const found = currentModalProduct.variants_map.find(v => {
+          const vTitle = (v.title || '').toLowerCase();
+          return optionSearch.every(term => vTitle.includes(term));
+        });
+        if (found) {
+          matchedVariantId = found.id;
+        }
+      }
+
+      addToCart(
+        currentModalProduct.title, 
+        currentModalProduct.price, 
+        currentModalProduct.img, 
+        selectedModalSize,
+        selectedModalColor,
+        matchedVariantId
+      );
+      closeProductModal();
+      openCart();
+    }
+
+    function addToCart(name, price, img, size = 'M', color = '', variantId = null) {
+      const existing = cart.find(item => item.name === name && item.size === size && item.color === color);
+      if (existing) {
+        existing.qty += 1;
+      } else {
+        cart.push({ name, price, img, size, color, variantId, qty: 1 });
+      }
+      updateCartDisplay();
+      showToast(`Ajouté au panier: ${name} (${size})`);
+    }
+
+    function changeQty(index, delta) {
+      cart[index].qty += delta;
+      if (cart[index].qty <= 0) {
+        cart.splice(index, 1);
+      }
+      updateCartDisplay();
+    }
+
+    function updateCartDisplay() {
+      const totalCount = cart.reduce((sum, item) => sum + item.qty, 0);
+      const subtotal = cart.reduce((sum, item) => sum + (item.price * item.qty), 0);
+
+      document.getElementById('header-cart-count').textContent = totalCount;
+      document.getElementById('cart-drawer-count').textContent = totalCount;
+      document.getElementById('cart-subtotal-price').textContent = subtotal.toFixed(2) + ' MAD';
+
+      const threshold = 1000;
+      const fillBar = document.getElementById('freeship-fill');
+      const text = document.getElementById('freeship-text');
+      if (subtotal >= threshold) {
+        fillBar.style.width = '100%';
+        text.textContent = 'Livraison express Santos offerte !';
+      } else {
+        const pct = Math.min(100, Math.round((subtotal / threshold) * 100));
+        fillBar.style.width = pct + '%';
+        text.textContent = `Ajoutez ${(threshold - subtotal).toFixed(2)} MAD pour la livraison offerte`;
+      }
+
+      const container = document.getElementById('cart-items-container');
+      if (cart.length === 0) {
+        container.innerHTML = `
+          <div style="text-align: center; padding: 40px 0; color: #888;">
+            <p style="font-size: 16px; margin-bottom: 16px;">Votre panier est vide.</p>
+            <button class="btn --link" onclick="closeCart()">Découvrir nos créations</button>
+          </div>
+        `;
+        return;
+      }
+
+      const clearBtnHtml = `
+        <div style="display: flex; justify-content: flex-end; padding: 6px 16px;">
+          <button type="button" class="cart-clear-btn" onclick="clearCart()">Vider le panier</button>
+        </div>
+      `;
+
+      container.innerHTML = clearBtnHtml + cart.map((item, idx) => `
+        <div class="cart-item">
+          <img src="${item.img}" alt="${item.name}">
+          <div class="cart-item__info">
+            <h4>${item.name}</h4>
+            <div class="cart-item__meta">Taille: ${item.size} ${item.color ? '• ' + item.color : ''}</div>
+            <div class="cart-item__actions">
+              <div class="cart-item__qty">
+                <button type="button" onclick="changeQty(${idx}, -1)" aria-label="Diminuer">−</button>
+                <span>${item.qty}</span>
+                <button type="button" onclick="changeQty(${idx}, 1)" aria-label="Augmenter">+</button>
+              </div>
+              <button type="button" class="cart-item__remove" onclick="removeFromCart(${idx})" aria-label="Supprimer du panier">
+                <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M9 3L3 9M3 3L9 9" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+                Supprimer
+              </button>
+            </div>
+          </div>
+          <div class="cart-item__price">${(item.price * item.qty).toFixed(2)} MAD</div>
+        </div>
+      `).join('');
+    }
+
+    function removeFromCart(index) {
+      const removed = cart.splice(index, 1)[0];
+      updateCartDisplay();
+      if (removed) showToast(`« ${removed.name} » retiré du panier.`);
+    }
+
+    function clearCart() {
+      if (!confirm('Voulez-vous vraiment vider votre panier ?')) return;
+      cart = [];
+      updateCartDisplay();
+      showToast('Votre panier a été vidé.');
+    }
+
+    function openCart() {
+      const drawer = document.getElementById('cart-drawer');
+      drawer.classList.add('is-open');
+      drawer.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeCart() {
+      const drawer = document.getElementById('cart-drawer');
+      drawer.classList.remove('is-open');
+      drawer.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+
+    function handleCheckout() {
+      if (cart.length === 0) {
+        showToast('Votre panier est actuellement vide.');
+        return;
+      }
+      closeCart();
+      if (typeof openCodCheckout === 'function') {
+        openCodCheckout();
+      }
+    }
+
+    function buyModalItemCod() {
+      if (!currentModalProduct) return;
+      closeProductModal();
+      if (typeof openCodCheckout === 'function') {
+        openCodCheckout({
+          title: currentModalProduct.title,
+          price: currentModalProduct.price,
+          img: currentModalProduct.img,
+          size: selectedModalSize || 'M',
+          color: selectedModalColor || ''
+        });
+      }
+    }
+
+    // Search
+    const searchOverlay = document.getElementById('search-overlay');
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results-box');
+
+    function openSearch() {
+      searchOverlay.classList.add('is-active');
+      searchOverlay.setAttribute('aria-hidden', 'false');
+      searchOverlay.style.display = 'block';
+      setTimeout(() => searchInput.focus(), 50);
+    }
+
+    function closeSearch() {
+      searchOverlay.classList.remove('is-active');
+      searchOverlay.setAttribute('aria-hidden', 'true');
+      searchOverlay.style.display = 'none';
+    }
+
+    function quickFilter(query) {
+      searchInput.value = query;
+      performSearch(query);
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      performSearch(e.target.value);
+    });
+
+    function performSearch(query) {
+      const q = query.trim().toLowerCase();
+      if (!q) {
+        searchResults.innerHTML = '';
+        return;
+      }
+      const matches = realProducts.filter(p => p.title.toLowerCase().includes(q) || p.desc.toLowerCase().includes(q));
+      if (matches.length === 0) {
+        searchResults.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: #888;">Aucune pièce trouvée pour "' + query + '"</p>';
+        return;
+      }
+      searchResults.innerHTML = matches.map(p => `
+        <article class="product-card" onclick="openProductModalByIndex(${realProducts.indexOf(p)}); closeSearch();">
+          <div class="product-card__thumbnail">
+            <img class="product-card__img" src="${p.img}" alt="${p.title}">
+          </div>
+          <div class="product-card__content">
+            <h3 class="product-card__title">${p.title}</h3>
+            <p class="product-card__price">${p.price.toFixed(2)} MAD</p>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    function toggleMobileNav() {
+      const nav = document.getElementById('mobile-nav');
+      const burger = document.getElementById('burger-btn');
+      const isOpen = nav.classList.toggle('is-open');
+      burger.setAttribute('aria-expanded', isOpen);
+      nav.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+      document.body.style.overflow = isOpen ? 'hidden' : '';
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toast-msg');
+      toast.textContent = msg;
+      toast.classList.add('is-visible');
+      setTimeout(() => {
+        toast.classList.remove('is-visible');
+      }, 2800);
+    }
+
+    window.buyModalItemCod = buyModalItemCod;
+
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeCart();
+        closeProductModal();
+        closeSearch();
+        if (typeof closeCodCheckout === 'function') closeCodCheckout();
+      }
+    });
+
+    window.addEventListener('DOMContentLoaded', loadRealCatalog);
+  </script>
+  <script src="choice-reverse.js"></script>
+</body>
+</html>

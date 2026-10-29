@@ -1,0 +1,790 @@
+[
+  {
+    "id": 8390873415795,
+    "handle": "winston-facemask-fw26",
+    "name": "Winston Facemask",
+    "type": "Accessories",
+    "price": 90.0,
+    "img": "assets/images/Balaclava_Black_Main.jpg",
+    "images": [
+      "assets/images/Balaclava_Black_Main.jpg",
+      "assets/images/Balaclava_White_main.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Off-White"
+    ],
+    "desc": "Grid fleece cut for cold-weather running, breathable where it matters and warm against the skin."
+  },
+  {
+    "id": 8390873251955,
+    "handle": "orchard-cotton-beanie-fw26",
+    "name": "Orchard Cotton Beanie",
+    "type": "Accessories",
+    "price": 65.0,
+    "img": "assets/images/Orchard_Brown_Main.jpg",
+    "images": [
+      "assets/images/Orchard_Brown_Main.jpg",
+      "assets/images/Orchard_White_Main.jpg"
+    ],
+    "colors": [
+      "Coffee",
+      "Off-White"
+    ],
+    "desc": "Recycled cotton, knit with a soft hand, finished with a woven label from the FW26 collection. Simple and warm."
+  },
+  {
+    "id": 8390873153651,
+    "handle": "west-hill-cashmere-beanie-fw26",
+    "name": "West Hill Cashmere Beanie",
+    "type": "Accessories",
+    "price": 100.0,
+    "img": "assets/images/Cashmere_Black_Main.jpg",
+    "images": [
+      "assets/images/Cashmere_Black_Main.jpg",
+      "assets/images/Cashmere_Cream_Main.jpg",
+      "assets/images/Cashmere_Grey_Main.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Cream",
+      "Heather grey"
+    ],
+    "desc": "A cashmere and merino wool blend, knit soft and warm, with a tonal canvas patch at the cuff. A clean shape for cold mornings."
+  },
+  {
+    "id": 8390873317491,
+    "handle": "cursive-skull-beanie-fw26",
+    "name": "Cursive Skull Beanie",
+    "type": "Accessories",
+    "price": 65.0,
+    "img": "assets/images/Cursive_Navy_Main.jpg",
+    "images": [
+      "assets/images/Cursive_Navy_Main.jpg",
+      "assets/images/Cursive_Red_Main.jpg"
+    ],
+    "colors": [
+      "Navy",
+      "Burgundy"
+    ],
+    "desc": "Our classic skull beanie fit, close to the head, finished with the signature Santos Running logo. A staple for every run."
+  },
+  {
+    "id": 8390873514099,
+    "handle": "hingston-running-beanie-fw26",
+    "name": "Hingston Running Beanie",
+    "type": "Accessories",
+    "price": 70.0,
+    "img": "assets/images/Hingston_Black_Main.jpg",
+    "images": [
+      "assets/images/Hingston_Black_Main.jpg",
+      "assets/images/Hingston_Bone_Main.jpg",
+      "assets/images/Hingston_Brown_Main.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Tan",
+      "Brown"
+    ],
+    "desc": "A close skull fit with a microfleece interior, soft against the head and warm through the coldest miles. Built for the winter season."
+  },
+  {
+    "id": 8390873776243,
+    "handle": "northview-shell-jacket-fw26",
+    "name": "Northview Shell Jacket",
+    "type": "Tops",
+    "price": 300.0,
+    "img": "assets/images/082526_BALMORAL-FW2602101.jpg",
+    "images": [
+      "assets/images/082526_BALMORAL-FW2602101.jpg",
+      "assets/images/082526_BALMORAL-FW260031.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Taupe"
+    ],
+    "desc": "A waterproof shell with fully sealed seams, cut in a tapered fit that moves with you. Built to keep the weather out on the longest days."
+  },
+  {
+    "id": 8390873579635,
+    "handle": "madison-insulated-cap-fw26",
+    "name": "Madison Insulated Cap",
+    "type": "Accessories",
+    "price": 95.0,
+    "img": "assets/images/PufferHat_Black_Main.jpg",
+    "images": [
+      "assets/images/PufferHat_Black_Main.jpg",
+      "assets/images/PufferHat_Blue_Main.jpg",
+      "assets/images/PufferHat_Red_Main.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Ice Blue",
+      "Burgundy"
+    ],
+    "desc": "A vintage shape lined with PrimaLoft insulation, warm without bulk for the heaviest winter days. Built to hold its structure through the season."
+  },
+  {
+    "id": 8390875709555,
+    "handle": "finchsley-insulated-mittens-fw26",
+    "name": "Finchsley Insulated Mittens",
+    "type": "Accessories",
+    "price": 90.0,
+    "img": "assets/images/Mitts_Black_Main.jpg",
+    "images": [
+      "assets/images/Mitts_Black_Main.jpg",
+      "assets/images/Mitts_Blue_Main.jpg",
+      "assets/images/Mitts_Red_Main.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Ice Blue",
+      "Burgundy"
+    ],
+    "desc": "The Finchley Mittens use PrimaLoft insulation for warmth without weight, built for colder conditions and easy movement."
+  },
+  {
+    "id": 8390875807859,
+    "handle": "gym-bag-fw26",
+    "name": "Gym Bag",
+    "type": "Accessories",
+    "price": 160.0,
+    "img": "assets/images/082526_BALMORAL-FW261726.jpg",
+    "images": [
+      "assets/images/082526_BALMORAL-FW261726.jpg"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "desc": "A classic barrel duffle in sturdy cotton duck, built to last for years. Clean and functional, with multiple pockets for your travels and an adjustable shoulder strap."
+  },
+  {
+    "id": 8392312029299,
+    "handle": "belmore-metallic-4-panel-hat",
+    "name": "Belmore Metallic 4-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/032626_BALMORAL_ECOM6681.png",
+    "images": [
+      "assets/images/032626_BALMORAL_ECOM6681.png",
+      "assets/images/032626_BALMORAL_ECOM6679.png"
+    ],
+    "colors": [
+      "Forest Green",
+      "True Blue"
+    ],
+    "desc": "The Belmore 4 Panel Hat is a lightweight running essential designed for performance and comfort."
+  },
+  {
+    "id": 8390875644019,
+    "handle": "merino-running-socks-fw26",
+    "name": "Merino Running Socks",
+    "type": "Accessories",
+    "price": 30.0,
+    "img": "assets/images/MerinoSocksCream.jpg",
+    "images": [
+      "assets/images/MerinoSocksCream.jpg",
+      "assets/images/SocksBlack.jpg",
+      "assets/images/MerinoSocksGrey.jpg"
+    ],
+    "colors": [
+      "Off-White",
+      "Black",
+      "Grey"
+    ],
+    "desc": "Built for cold miles. A merino wool blend keeps you warm when it's raw out and dry once you've warmed up. Mesh panelling vents where heat builds, and a ribbed cuff holds its place."
+  },
+  {
+    "id": 8390875512947,
+    "handle": "melrose-joggers-fw26",
+    "name": "Melrose Joggers",
+    "type": "Bottoms",
+    "price": 170.0,
+    "img": "assets/images/Melrose_Sweatpants_HeatherGrey_Front_a2d00e1d-74fa-449e-9f36-3ab38d7de810.jpg",
+    "images": [
+      "assets/images/Melrose_Sweatpants_HeatherGrey_Front_a2d00e1d-74fa-449e-9f36-3ab38d7de810.jpg",
+      "assets/images/Melrose_Sweatpants_WashedBlack_Front.jpg"
+    ],
+    "colors": [
+      "Heather grey",
+      "Washed black"
+    ],
+    "desc": "Premium 400gsm French terry in a relaxed straight-leg fit, structured and built to last. Clean lines, tonal stitching, and a discreet branded back pocket."
+  },
+  {
+    "id": 8390875414643,
+    "handle": "eastman-knitwear-fw26",
+    "name": "Eastman Knitwear",
+    "type": "Tops",
+    "price": 185.0,
+    "img": "assets/images/EastmanKnitwearBrownFront.jpg",
+    "images": [
+      "assets/images/EastmanKnitwearBrownFront.jpg",
+      "assets/images/EastmanKnitwearGrayFront.jpg"
+    ],
+    "colors": [
+      "Brown",
+      "Grey"
+    ],
+    "desc": "Heavyweight cotton yarn, garment washed for a softer hand and substantial structure. Clean lines, a ribbed finish, and a leather debossed clip label at the hem."
+  },
+  {
+    "id": 8390875349107,
+    "handle": "westmore-sherpa-fw26",
+    "name": "Westmore Sherpa",
+    "type": "Tops",
+    "price": 200.0,
+    "img": "assets/images/WestmoreSherpaBlackFront.jpg",
+    "images": [
+      "assets/images/WestmoreSherpaBlackFront.jpg",
+      "assets/images/WestmoreSherpaCreamFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Off-White"
+    ],
+    "desc": "A high-pile sherpa exterior with a clean, structured build underneath, warm through the coldest stretches. Finished with a woven chest patch and zip pockets, a polished layer for colder days."
+  },
+  {
+    "id": 8390875250803,
+    "handle": "courcelle-1-4-zip-fw26",
+    "name": "Courcelle 1/4 Zip",
+    "type": "Tops",
+    "price": 170.0,
+    "img": "assets/images/CourcelleGreenFront.jpg",
+    "images": [
+      "assets/images/CourcelleGreenFront.jpg",
+      "assets/images/CourcelleBurgundyFront.jpg",
+      "assets/images/CourcelleBrownFront.jpg",
+      "assets/images/CourcelleNavyFront.jpg"
+    ],
+    "colors": [
+      "Forest Green",
+      "Burgundy",
+      "Brown",
+      "Navy"
+    ],
+    "desc": "Polartec fleece for lightweight warmth and real breathability, steady across changing conditions. A clean quarter-zip neckline and woven chest patch finish a refined everyday layer."
+  },
+  {
+    "id": 8390875185267,
+    "handle": "academy-zip-hoodie-fw26",
+    "name": "Academy Zip Hoodie",
+    "type": "Tops",
+    "price": 175.0,
+    "img": "assets/images/ZipHoodieGreyFront.jpg",
+    "images": [
+      "assets/images/ZipHoodieGreyFront.jpg",
+      "assets/images/ZipHoodieNavyFront.jpg"
+    ],
+    "colors": [
+      "Heather grey",
+      "Navy"
+    ],
+    "desc": "Premium cotton fleece with a weighty, warm build and a screenprinted mark at the chest. Full-zip with roomy pockets, drawn from heritage athletic styling."
+  },
+  {
+    "id": 8390875054195,
+    "handle": "sterling-crewneck-fw26",
+    "name": "Sterling Crewneck",
+    "type": "Tops",
+    "price": 170.0,
+    "img": "assets/images/SterlingCrewneckBrownFront.jpg",
+    "images": [
+      "assets/images/SterlingCrewneckBrownFront.jpg",
+      "assets/images/SterlingCrewneckGreyFront.jpg",
+      "assets/images/SterlingCrewneckNavyFront.jpg"
+    ],
+    "colors": [
+      "Ash grey",
+      "Navy",
+      "Chocolate"
+    ],
+    "desc": "400gsm cotton fleece with a premium handfeel and steady warmth, finished with a washed screenprint crest for subtle texture. A straightforward shape, made to layer through the cold months."
+  },
+  {
+    "id": 8390874955891,
+    "handle": "bloom-t-shirt-fw26",
+    "name": "Bloom T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/BloomT-ShirtFront.jpg",
+    "images": [
+      "assets/images/BloomT-ShirtFront.jpg"
+    ],
+    "colors": [
+      "Heather grey"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, finished with a screenprint at the front and back."
+  },
+  {
+    "id": 8390874857587,
+    "handle": "roma-t-shirt-fw26",
+    "name": "Roma T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/RomaT-ShirtFront.jpg",
+    "images": [
+      "assets/images/RomaT-ShirtFront.jpg"
+    ],
+    "colors": [
+      "Washed black"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, finished with a screenprint at the front and back."
+  },
+  {
+    "id": 8390874792051,
+    "handle": "inn-t-shirt-fw26",
+    "name": "Inn T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/InnT-Shirtfront.jpg",
+    "images": [
+      "assets/images/InnT-Shirtfront.jpg"
+    ],
+    "colors": [
+      "Ash grey"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, finished with a screenprint at the front and back."
+  },
+  {
+    "id": 8390874726515,
+    "handle": "globe-t-shirt-fw26",
+    "name": "Globe T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/GlobeT-ShirtFront.jpg",
+    "images": [
+      "assets/images/GlobeT-ShirtFront.jpg"
+    ],
+    "colors": [
+      "White"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, finished with a screenprint at the front and back."
+  },
+  {
+    "id": 8390874628211,
+    "handle": "vendome-t-shirt-fw26",
+    "name": "Vendôme T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/VendomeT-SHirtNavyFront.jpg",
+    "images": [
+      "assets/images/VendomeT-SHirtNavyFront.jpg"
+    ],
+    "colors": [
+      "Washed Navy"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, finished with a screenprint at the front and back."
+  },
+  {
+    "id": 8390874529907,
+    "handle": "windsor-t-shirt-fw26",
+    "name": "Windsor T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/WindsorT-SHirtFront.jpg",
+    "images": [
+      "assets/images/WindsorT-SHirtFront.jpg"
+    ],
+    "colors": [
+      "Ash grey"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, with a vintage-inspired Canadian heritage screenprint."
+  },
+  {
+    "id": 8390874431603,
+    "handle": "big-o-t-shirt-fw26",
+    "name": "Big-O T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/BigOT-ShirtFront.jpg",
+    "images": [
+      "assets/images/BigOT-ShirtFront.jpg"
+    ],
+    "colors": [
+      "White"
+    ],
+    "desc": "Premium midweight cotton in a classic fit, with a water-based screenprint of the Montreal Olympic Stadium."
+  },
+  {
+    "id": 8390874366067,
+    "handle": "aberdeen-t-shirt-fw26",
+    "name": "Aberdeen T-Shirt",
+    "type": "Tops",
+    "price": 80.0,
+    "img": "assets/images/AberdeenT-ShirtAshGreyFront.jpg",
+    "images": [
+      "assets/images/AberdeenT-ShirtAshGreyFront.jpg",
+      "assets/images/AberdeenT-ShirtNavyFront.jpg",
+      "assets/images/AberdeenT-ShirtHeatherGreyFront.jpg"
+    ],
+    "colors": [
+      "Ash grey",
+      "Washed Navy",
+      "Heather grey"
+    ],
+    "desc": "Classic-fit premium midweight cotton tee, a collection staple since the beginning."
+  },
+  {
+    "id": 8390874267763,
+    "handle": "miller-running-pants-fw26",
+    "name": "Miller Running Pants",
+    "type": "Bottoms",
+    "price": 175.0,
+    "img": "assets/images/MillerPantsBlackFront.jpg",
+    "images": [
+      "assets/images/MillerPantsBlackFront.jpg",
+      "assets/images/MillerPantsGunmetalFront.jpg",
+      "assets/images/MillerPantsBrownFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Gun Metal",
+      "Chocolate"
+    ],
+    "desc": "A woven four-way stretch fabric in a straight, relaxed fit. Made to layer over tights or wear on its own."
+  },
+  {
+    "id": 8390874202227,
+    "handle": "st-ambroise-winter-tights-fw26",
+    "name": "St-Ambroise Winter Tights",
+    "type": "Bottoms",
+    "price": 175.0,
+    "img": "assets/images/St-AmbroiseWinterTightsBlackFront.jpg",
+    "images": [
+      "assets/images/St-AmbroiseWinterTightsBlackFront.jpg",
+      "assets/images/St-AmbroiseWinterTightsNavyFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "desc": "An Italian fabric with a brushed microfleece interior, warm against the skin and highly breathable through the miles. Built for cold-weather running."
+  },
+  {
+    "id": 8390873940083,
+    "handle": "summit-insulated-vest-fw26",
+    "name": "Summit Insulated Vest",
+    "type": "Tops",
+    "price": 220.0,
+    "img": "assets/images/SummitVestFront.jpg",
+    "images": [
+      "assets/images/SummitVestFront.jpg"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "desc": "A sleeveless puffer insulated with PrimaLoft, warm through the core without restricting the arms. Packs into its own pocket."
+  },
+  {
+    "id": 8390873841779,
+    "handle": "victoria-waffle-longsleeve-fw26",
+    "name": "Victoria Waffle Longsleeve",
+    "type": "Tops",
+    "price": 165.0,
+    "img": "assets/images/VictoriaWaffleBlackFront.jpg",
+    "images": [
+      "assets/images/VictoriaWaffleBlackFront.jpg",
+      "assets/images/VictoriaWaffleBrownFront.jpg",
+      "assets/images/VictoriaWaffleOff-WhiteFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Chocolate",
+      "Off-White"
+    ],
+    "desc": "A 50/50 merino wool and cotton blend in a waffle knit, warm and breathable through the run. Cut as a pullover mid layer."
+  },
+  {
+    "id": 8390873055347,
+    "handle": "metropole-5-panel-hat-fw26",
+    "name": "Metropole 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/MontrealRunningHatFront.jpg",
+    "images": [
+      "assets/images/MontrealRunningHatFront.jpg"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "desc": "Lightweight nylon with a screenprinted Montreal Running Co. logo at the front, an archive mark brought back."
+  },
+  {
+    "id": 8390872957043,
+    "handle": "track-club-5-panel-hat-fw26",
+    "name": "Track Club 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/TrackClubHatBlueFront.jpg",
+    "images": [
+      "assets/images/TrackClubHatBlueFront.jpg"
+    ],
+    "colors": [
+      "Sun Faded Blue"
+    ],
+    "desc": "A soft flocked logo at the front, printed on a sun-faded ground for a worn-in look."
+  },
+  {
+    "id": 8390872891507,
+    "handle": "lily-cashmere-5-panel-hat-fw26",
+    "name": "Lily Cashmere 5-Panel Hat",
+    "type": "Accessories",
+    "price": 100.0,
+    "img": "assets/images/LilyCashmereFront.jpg",
+    "images": [
+      "assets/images/LilyCashmereFront.jpg"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "desc": "A cashmere and merino blend, soft against the hand and finished with an embroidered front logo. Warmth without weight."
+  },
+  {
+    "id": 8390872793203,
+    "handle": "big-o-5-panel-hat-fw26",
+    "name": "Big-O 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/BigOHatFront.jpg",
+    "images": [
+      "assets/images/BigOHatFront.jpg"
+    ],
+    "colors": [
+      "Chocolate"
+    ],
+    "desc": "Cotton throughout, with a front patch fixed in zigzag stitch and drawn from the lines of the Olympic Stadium. A quiet nod to the neighbourhood."
+  },
+  {
+    "id": 8390872727667,
+    "handle": "jogging-5-panel-hat-fw26",
+    "name": "Jogging 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/JoggingHatFront.jpg",
+    "images": [
+      "assets/images/JoggingHatFront.jpg"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "desc": "A vintage-inspired 5-panel in a mix of nylon and suede, finished with a leather patch at the front."
+  },
+  {
+    "id": 8390872629363,
+    "handle": "old-english-5-panel-hat-fw26",
+    "name": "Old English 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/OldEnglishTweedHatFront.jpg",
+    "images": [
+      "assets/images/OldEnglishTweedHatFront.jpg"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "desc": "Cut from tweed fabric with a raised 3D embroidered logo at the front. An easy shape, made to be worn in."
+  },
+  {
+    "id": 8390872563827,
+    "handle": "melrose-washed-denim-6-panel-hat-fw26",
+    "name": "Melrose Washed Denim 6-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/MelroseDenimBlueFront.jpg",
+    "images": [
+      "assets/images/MelroseDenimBlueFront.jpg",
+      "assets/images/032626_BALMORAL_ECOM6693.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Blue"
+    ],
+    "desc": "The Melrose Hat blends casual texture with modern detailing. Made from soft denim washed cotton, it features a raised silicone front logo that adds subtle dimension."
+  },
+  {
+    "id": 8390872498291,
+    "handle": "chainstitch-corduroy-5-panel-hat-fw26",
+    "name": "Chainstitch Corduroy 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/ChainstitchHatFront.jpg",
+    "images": [
+      "assets/images/ChainstitchHatFront.jpg"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "desc": "The Chainstitch Corduroy 5-Panel Hat offers a vintage texture with clean modern lines. Cut from soft wide-wale corduroy, it features a chainstitch embroidered front logo that lends quiet dimension and a hand-finished feel."
+  },
+  {
+    "id": 8390872399987,
+    "handle": "york-5-panel-hat-fw26",
+    "name": "York 5-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/YorkHatGreyFront.jpg",
+    "images": [
+      "assets/images/YorkHatGreyFront.jpg",
+      "assets/images/YorkHatNavyFront.jpg"
+    ],
+    "colors": [
+      "Gun Metal",
+      "Midnight Navy"
+    ],
+    "desc": "Introducing our York 5-Panel Hat designed for ventilation and comfort. Crafted from lightweight nylon, it features a laser cut front logo and back panel detailing for enhanced airflow."
+  },
+  {
+    "id": 8390872367219,
+    "handle": "somerville-4-panel-hat-fw26",
+    "name": "Somerville 4-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/SomervilleNavyFront.jpg",
+    "images": [
+      "assets/images/SomervilleNavyFront.jpg",
+      "assets/images/SomervilleGreyFront.jpg"
+    ],
+    "colors": [
+      "Navy",
+      "Gun Metal"
+    ],
+    "desc": "The Somerville Hat is built in the same trusted low profile 4 panel shape, now upgraded with full mesh panelling for maximum airflow."
+  },
+  {
+    "id": 8390872236147,
+    "handle": "belmore-4-panel-hat-fw26",
+    "name": "Belmore 4-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/BelmoreBlackFront.jpg",
+    "images": [
+      "assets/images/BelmoreBlackFront.jpg",
+      "assets/images/BelmoreNavyFront.jpg",
+      "assets/images/BelmoreGreenFront.jpg",
+      "assets/images/BelmoreBurgundyFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Midnight Navy",
+      "Forest Green",
+      "Burgundy"
+    ],
+    "desc": "The Belmore 4 Panel Hat is a lightweight running essential designed for performance and comfort. Midnight Navy and Forest Green colorways ships out during the week of September 20."
+  },
+  {
+    "id": 8390872170611,
+    "handle": "aberdeen-6-panel-hat-fw26",
+    "name": "Aberdeen 6-Panel Hat",
+    "type": "Accessories",
+    "price": 75.0,
+    "img": "assets/images/AberdeenHatSandFront.jpg",
+    "images": [
+      "assets/images/AberdeenHatSandFront.jpg",
+      "assets/images/AberdeenHatBrownFront.jpg",
+      "assets/images/AberdeenHatGunmetal.jpg",
+      "assets/images/AberdeenHatOliveFront.jpg"
+    ],
+    "colors": [
+      "Sand",
+      "Chocolate",
+      "Gun Metal",
+      "Olive"
+    ],
+    "desc": "The Aberdeen 6 Panel Hat is built for everyday wear, combining vintage inspiration with modern comfort."
+  },
+  {
+    "id": 8240826155123,
+    "handle": "running-socks",
+    "name": "Running Socks",
+    "type": "Accessories",
+    "price": 25.0,
+    "img": "assets/images/RunningSocksWhite.jpg",
+    "images": [
+      "assets/images/RunningSocksWhite.jpg",
+      "assets/images/SocksBlack_b6544ac5-20ed-4b78-9fe9-b3550c84fb63.jpg",
+      "assets/images/RunningSocksBlue.jpg"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Blue"
+    ],
+    "desc": "Nylon-spandex blend performance socks with mesh panelling and a ribbed cuff, available in three colorways."
+  },
+  {
+    "id": 8240825663603,
+    "handle": "oakwood-longsleeve",
+    "name": "Oakwood Longsleeve",
+    "type": "Tops",
+    "price": 160.0,
+    "img": "assets/images/OakwoodLongsleeveBlackFront.jpg",
+    "images": [
+      "assets/images/OakwoodLongsleeveBlackFront.jpg",
+      "assets/images/OakwoodLongsleeveNavyFront.jpg",
+      "assets/images/OakwoodLongsleeveStoneFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Navy",
+      "Stone"
+    ],
+    "desc": "Ultralight recycled mesh longsleeve in race fit with bonded seams and a silicone logo. * For a more relaxed fit, we recommend taking one size up in this style."
+  },
+  {
+    "id": 8240825630835,
+    "handle": "oakwood-t-shirt",
+    "name": "Oakwood T-Shirt",
+    "type": "Tops",
+    "price": 150.0,
+    "img": "assets/images/OakwoodT-ShirtBlackFront.jpg",
+    "images": [
+      "assets/images/OakwoodT-ShirtBlackFront.jpg",
+      "assets/images/OakwoodT-ShirtNavyFront.jpg",
+      "assets/images/OakwoodT-ShirtStoneFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Navy",
+      "Stone"
+    ],
+    "desc": "Race-fit tee in ultralight recycled polyester mesh with bonded seams and a silicone logo."
+  },
+  {
+    "id": 7127786356851,
+    "handle": "st-ambroise-half-tights",
+    "name": "St-Ambroise Half Tights",
+    "type": "Bottoms",
+    "price": 160.0,
+    "img": "assets/images/St-AmbroiseHalfTightBlackFront.jpg",
+    "images": [
+      "assets/images/St-AmbroiseHalfTightBlackFront.jpg",
+      "assets/images/St-AmrboiseHalfTightsNavyFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "desc": "Compressive nylon half tights with laser-cut finish, flatlock seams, leg gripper, and three back pockets."
+  },
+  {
+    "id": 8240825598067,
+    "handle": "oakwood-tank-top",
+    "name": "Oakwood Tank Top",
+    "type": "Tops",
+    "price": 140.0,
+    "img": "assets/images/OakwoodTankTopBlackFront.jpg",
+    "images": [
+      "assets/images/OakwoodTankTopBlackFront.jpg",
+      "assets/images/OakwoodTankTopNavyFront.jpg",
+      "assets/images/OakwoodTankTopStoneFront.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Navy",
+      "Stone"
+    ],
+    "desc": "Ultralight 95gsm recycled polyester mesh tank with bonded seams and a silicone logo in a race fit."
+  }
+]
